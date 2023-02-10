@@ -20,6 +20,7 @@ Phylo.draw_ascii(tree1)
 
 ##### 13. рисует дерево с помощью draw (картинка должна быть внутри скомпилированного документа);
 `Phylo.draw(tree1)`
+![phylo.draw](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/phylo_draw.png?raw=true)
 
 ##### 14. сохраняет изображение дерева в растровый формат (png) и векторный (svg/pdf);
 ```
@@ -37,6 +38,7 @@ matplotlib.pyplot.figure(figsize=(24,12))
 Phylo.draw(tree1, do_show = False)
 matplotlib.pyplot.savefig("py_tree1_phylo_blue.png", dpi=600)
 ```
+![phylo.draw_readable](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/phylo_draw_2.png?raw=true)
 
 ## Python. ETE (ETE3)
 
@@ -46,8 +48,10 @@ matplotlib.pyplot.savefig("py_tree1_phylo_blue.png", dpi=600)
 ##### 17. рисует это дерево;
 `tree2 = Tree(raw_tree, format=1)`
 
+
 ##### 18. рисует это дерево в читаемом виде;
 `tree2.render("py_tree2_ete3.pdf")`
+![ETE3](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/py_tree2_ete3.png?raw=true)
 
 В формате круга:
 
@@ -57,6 +61,7 @@ circular_style.mode = "c"
 circular_style.scale = 20
 tree2.render("py_tree2_ete3_circ.pdf", tree_style=circular_style)
 ```
+![circle](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/py_tree2_ete3_circ.png?raw=true)
 
 ##### 19. вырезает (функция prune) из дерева случайный набор из 42 листьев;
 
@@ -68,6 +73,8 @@ tree2.prune(ss)
 ##### 20. рисует обрезанное дерево.
 
 `tree2.render("py_tree2_ete3_random.pdf")`
+
+![cut](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/py_tree2_ete3_random.png?raw=true)
 
 ##### TreeStyle from ETE3
 ```
@@ -83,3 +90,5 @@ for leaf in tree2.traverse():
 
 tree2.render("py_tree2_ete3_random_improved.png", tree_style=ts)
 ```
+
+![improved](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/py_tree2_ete3_random_improved.png?raw=true)
