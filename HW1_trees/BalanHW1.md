@@ -16,6 +16,7 @@ from Bio import Phylo
 tree1 = Phylo.read(raw_tree, "newick")
 Phylo.draw_ascii(tree1)
 ```
+![ASCII](https://github.com/Balan666/BI_Phylo_2023/blob/main/HW1_trees/treeASCII.png?raw=true)
 
 ##### 13. рисует дерево с помощью draw (картинка должна быть внутри скомпилированного документа);
 `Phylo.draw(tree1)`
