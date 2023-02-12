@@ -1,0 +1,2672 @@
+1. Comp Biochem Physiol Part D Genomics Proteomics. 2022 Jun;42:100977. doi: 
+10.1016/j.cbd.2022.100977. Epub 2022 Feb 16.
+
+Searching and identifying pigmentation genes from Neocaridina denticulate 
+sinensis via comparison of transcriptome in different color strains.
+
+Lin S(1), Zhang L(2), Wang G(1), Huang S(1), Wang Y(1).
+
+Author information:
+(1)Key Laboratory of Healthy Mariculture for the East China Sea, Ministry of 
+Agriculture, Fisheries College, Jimei University, Xiamen 361021, China.
+(2)Key Laboratory of Healthy Mariculture for the East China Sea, Ministry of 
+Agriculture, Fisheries College, Jimei University, Xiamen 361021, China. 
+Electronic address: llzhang@jmu.edu.cn.
+
+Aquaria species are characterized by their amazing colors and patterns. Research 
+on the breeding molecular genetics of ornamental shrimps is surprisingly 
+limited. We conducted a transcriptome analysis to investigate the expression of 
+encoding genes in the integument of the strains Neocaridina denticulate 
+sinensis. After assembled and filtered, 19,992 unigenes were annotated by 
+aligning with public functional databases (NR, Swiss-Prot, KEGG, COG). 14,915 
+unigenes with significantly different expressions were found by comparing three 
+strains integument transcriptomes. Ribosomal protein genes, ABC transporter 
+families, calmodulin, carotenoid proteins and crustacyanin may play roles in the 
+cytological process of pigment migration and chromatophore maintenance. Numerous 
+color genes associated with multiple pathways including melanin, ommochrome and 
+pteridines pathways were identified. The expression patterns of 25 candidate 
+genes were analysis by qPCR in red, yellow, transparent and glass strains. The 
+qPCR results in red, yellow and transparent were consistent with the level of 
+RPKM values in the transcriptomes. The above results will advance our knowledge 
+of integument color varieties in N. denticulate sinensis and help the genetic 
+selection of crustaceans with consumer-favored colors. Furthermore, it also 
+provides some candidate pigmentation genes to investigate the correlation 
+between coloration and sympatric speciation in crustaceans.
+
+Copyright © 2022. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cbd.2022.100977
+PMID: 35247793 [Indexed for MEDLINE]
+
+
+2. Foods. 2021 Dec 23;11(1):35. doi: 10.3390/foods11010035.
+
+Purification and Characterisation of Two Novel Pigment Proteins from the 
+Carapace of Red Swamp Crayfish (Procambarus clarkii).
+
+Chen H(1)(2), Ji H(1)(3)(4)(5)(6), Pan C(6)(7), Zhang D(1)(3)(4)(5), Su 
+W(1)(3)(4)(5), Liu S(1)(3)(4)(5)(6), Deng Y(1), Huang X(1).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Aquatic Product Processing and Safety, 
+College of Food Science and Technology, Guangdong Ocean University, Zhanjiang 
+524088, China.
+(2)Hunan Provincial Key Laboratory of Soybean Products Processing and Safety 
+Control, College of Food and Chemical Engineering, Shaoyang University, Shaoyang 
+422000, China.
+(3)Guangdong Provincial Engineering Technology Research Center of Seafood, 
+College of Food Science and Technology, Guangdong Ocean University, Zhanjiang 
+524088, China.
+(4)Guangdong Province Engineering Laboratory for Marine Biological Products, 
+College of Food Science and Technology, Guangdong Ocean University, Zhanjiang 
+524088, China.
+(5)Key Laboratory of Advanced Processing of Aquatic Product of Guangdong Higher 
+Education Institution, College of Food Science and Technology, Guangdong Ocean 
+University, Zhanjiang 524088, China.
+(6)Collaborative Innovation Center of Seafood Deep Processing, Dalian 
+Polytechnic University, Dalian 116034, China.
+(7)South China Sea Fisheries Research Institute, Chinese Academy of Fishery 
+Sciences, Guangzhou 510300, China.
+
+Pigment proteins play a vital role in the red colour change of the red swamp 
+crayfish (Procambarus clarkii) shell after cooking. In this study, two 
+red-change-related pigment proteins with molecular weights of approximately 170 
+and 43 kDa-denoted as F1 and F2, respectively-were purified by ammonium sulphate 
+salting-out and size exclusion chromatography. F1 and F2 entirely comprised 
+homomultimeric protein complexes composed of 21 kDa subunits. LC-MS/MS analysis 
+showed that the 21 kDa protein subunit belonged to the crustacyanin family, 
+named P. clarkii crustacyanin A2 (PcCRA2). The full-length cDNA of PcCRA2 was 
+cloned, which encoded 190 amino acid residues and was highly homologous (91.58%) 
+with Cherax quadricarinatus crustacyanin A. The predicted 3D structure showed 
+that PcCRA2 had a β-barrel structure for pigment encapsulation. The colour 
+change of F1 was first detected at 40 °C, and the red change occurred upon 
+heating above 60 °C. Additionally, with increasing temperature, its β-sheet 
+content increased, and its α-helix content reduced. Correlation analysis showed 
+that the redness value of F1 was significantly related to the heating 
+temperature and the β-sheet content.
+
+DOI: 10.3390/foods11010035
+PMCID: PMC8750329
+PMID: 35010161
+
+Conflict of interest statement: The authors have declared no conflict of 
+interest in this study.
+
+
+3. Mar Drugs. 2021 Aug 16;19(8):462. doi: 10.3390/md19080462.
+
+A Method of Solubilizing and Concentrating Astaxanthin and Other Carotenoids.
+
+Hara KY(1)(2), Yagi S(1), Hirono-Hara Y(2), Kikukawa H(1)(2).
+
+Author information:
+(1)Laboratory of Environmental Bioengineering, Graduate Division of Nutritional 
+and Environmental Sciences, University of Shizuoka, 52-1 Yada, Suruga-ku, 
+Shizuoka 422-8526, Japan.
+(2)Department of Environmental and Life Sciences, School of Food and Nutritional 
+Sciences, University of Shizuoka, 52-1 Yada, Suruga-ku, Shizuoka 422-8526, 
+Japan.
+
+The valuable marine carotenoid, astaxanthin, is used in supplements, medicines 
+and cosmetics. In this study, crustacyanin, an astaxanthin-binding protein, was 
+used to solubilize and concentrate astaxanthin. The recombinant crustacyanin of 
+European lobster spontaneously formed an inclusion body when it was 
+over-expressed in Escherichia coli. In this study, fusing the NusA-tag to the 
+crustacyanin subunits made it possible to express in a soluble fraction and 
+solubilize astaxanthin in aqueous solution. By cutting off the NusA-tag, the 
+crustacyanin subunits generated the pure insoluble form, and captured and 
+concentrated astaxanthin. Overall, the attaching and releasing NusA-tag method 
+has the potential to supply solubilized carotenoids in aqueous solution and 
+concentrated carotenoids, respectively.
+
+DOI: 10.3390/md19080462
+PMCID: PMC8399374
+PMID: 34436301 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no financial or commercial 
+conflict of interest.
+
+
+4. Genes (Basel). 2021 Apr 21;12(5):618. doi: 10.3390/genes12050618.
+
+Transcriptome Analysis Provides Insights into the Mechanism of Astaxanthin 
+Enrichment in a Mutant of the Ridgetail White Prawn Exopalaemon carinicauda.
+
+Jin Y(1)(2)(3), Li S(1)(2)(4), Yu Y(1)(2)(4), Zhang C(1)(2)(4), Zhang 
+X(1)(2)(4), Li F(1)(2)(4)(5).
+
+Author information:
+(1)Key Laboratory of Experimental Marine Biology, Institute of Oceanology, 
+Chinese Academy of Sciences, Qingdao 266071, China.
+(2)Laboratory for Marine Biology and Biotechnology, Qingdao National Laboratory 
+for Marine Science and Technology, Qingdao 266000, China.
+(3)University of Chinese Academy of Sciences, Beijing 100049, China.
+(4)Center for Ocean Mega-Science, Chinese Academy of Sciences, Qingdao 266071, 
+China.
+(5)The Innovation of Seed Design, Chinese Academy of Sciences, Wuhan 430072, 
+China.
+
+A mutant of the ridgetail white prawn, which exhibited rare orange-red body 
+color with a higher level of free astaxanthin (ASTX) concentration than that in 
+the wild-type prawn, was obtained in our lab. In order to understand the 
+underlying mechanism for the existence of a high level of free astaxanthin, 
+transcriptome analysis was performed to identify the differentially expressed 
+genes (DEGs) between the mutant and wild-type prawns. A total of 78,224 unigenes 
+were obtained, and 1863 were identified as DEGs, in which 902 unigenes showed 
+higher expression levels, while 961 unigenes presented lower expression levels 
+in the mutant in comparison with the wild-type prawns. Based on Gene Ontology 
+analysis and Kyoto Encyclopedia of Genes and Genomes analysis, as well as 
+further investigation of annotated DEGs, we found that the biological processes 
+related to astaxanthin binding, transport, and metabolism presented significant 
+differences between the mutant and the wild-type prawns. Some genes related to 
+these processes, including crustacyanin, apolipoprotein D (ApoD), cathepsin, and 
+cuticle proteins, were identified as DEGs between the two types of prawns. These 
+data may provide important information for us to understand the molecular 
+mechanism of the existence of a high level of free astaxanthin in the prawn.
+
+DOI: 10.3390/genes12050618
+PMCID: PMC8143343
+PMID: 33919403 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. J Exp Zool B Mol Dev Evol. 2021 Jun;336(4):352-363. doi: 10.1002/jez.b.23025. 
+Epub 2021 Jan 19.
+
+Expression and function analysis of crustacyanin gene family involved in 
+resistance to heavy metal stress and body color formation in Exopalaemon 
+carinicauda.
+
+Gao H(1)(2)(3)(4), Ma H(1), Sun J(1), Xu W(1), Gao W(1), Lai X(1)(2)(3)(4), Yan 
+B(1)(2)(3)(4).
+
+Author information:
+(1)Jiangsu Key Laboratory of Marine Bioresources and Environment, Jiangsu Key 
+Laboratory of Marine Biotechnology, Jiangsu Ocean University, Lianyungang, 
+China.
+(2)Co-Innovation Center of Jiangsu Marine Bio-industry Technology, Jiangsu Ocean 
+University, Lianyungang, China.
+(3)Marine Resource Development institute of Jiangsu (Lianyungang), Lianyungang, 
+Jiangsu, China.
+(4)The Jiangsu Provincial Infrastructure for Conservation and Utilization of 
+Agricultural Germplasm, Nanjing, China.
+
+Crustacyanin has the function of binding astaxanthin which is the best 
+antioxidant, and plays an important role in the body color variation of 
+crustaceans. To investigate the causes of body color variation of the ridgetail 
+white prawn, Exopalaemon carinicauda, the present study obtained four subtypes 
+of crustacyanin gene: C1, C2, A1, and A2. Based on fluorescence quantitative 
+polymerase chain reaction, lipocalin-C1 is mainly expressed in the eyestalk, 
+lipocalin-C2 is in the ventral nerve cord, and lipocalin-A1 and lipocalin-A2 are 
+in subcutaneous adipose tissues. Under the inhibiting effect of Cd2+ stress, the 
+expression of four subtypes first increases and then decreases within 24 h, and 
+reaches the maximum at 6 or 12 h. RNA interference experiments showed a decrease 
+in the expression of lipocalin genes in subcutaneous adipose tissue for each 
+subtype, with the body color changing from transparent to red, and the dark red 
+spots on the epidermis changing to bright red. Moreover, the blue protein in the 
+subcutaneous adipose tissue largely disappeared, based on the light micrographs. 
+In view of these findings, the crustacyanin gene appears to fulfill some 
+function in the resistance to heavy metal stress and body color formation of E. 
+carinicauda.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jez.b.23025
+PMID: 33465290 [Indexed for MEDLINE]
+
+
+6. Mol Ecol. 2020 Oct;29(20):3954-3969. doi: 10.1111/mec.15610. Epub 2020 Sep 11.
+
+Adaptation and molecular evidence for convergence in decapod crustaceans from 
+deep-sea hydrothermal vent environments.
+
+Yuan J(1)(2)(3), Zhang X(1)(2)(3), Gao Y(1)(2)(3), Zhang X(1)(2), Liu 
+C(1)(2)(3), Xiang J(1)(2)(3), Li F(1)(2)(3).
+
+Author information:
+(1)CAS Key Laboratory of Experimental Marine Biology, Institute of Oceanology, 
+Chinese Academy of Sciences, Qingdao, China.
+(2)Laboratory for Marine Biology and Biotechnology, Qingdao National Laboratory 
+for Marine Science and Technology, Qingdao, China.
+(3)Center for Ocean Mega-Science, Chinese Academy of Sciences, Qingdao, China.
+
+Hydrothermal vents are unique deep-sea environments exhibiting extreme 
+temperature gradients and toxic concentrations of H2 S that limit the growth of 
+biological communities. Notably, some decapod crustaceans are the dominant 
+organisms inhabiting these environments, and share similar phenotypic and 
+physiological traits, such as white body coloration and chemosynthetic capacity. 
+However, a lack of genomic information has precluded an understanding of these 
+convergent phenotypes. Here, comparative transcriptomic analyses were performed 
+in 14 decapod species, including four deep-sea hydrothermal vent species and 10 
+shallow-water relatives. Phylogenetic analysis suggested that the four deep-sea 
+species stemmed from different ancestors despite being geographically close, and 
+therefore their similar traits were probably the product of convergent evolution 
+rather than lineal inheritance. A total of 391 positively selected genes, 109 
+parallel substituted genes and 33 significantly expanded gene families were 
+identified in the deep-sea decapods. Among these, only the SNARE interactions in 
+vesicular transport pathway was significantly enriched, with both positively 
+selected genes and parallel substituted genes, suggesting that specific 
+macromolecule transport might be a strong convergent evolution trait in deep-sea 
+decapods. Furthermore, many genes involved in protein synthesis, processing and 
+energy metabolism were detected under convergent evolution, suggesting a role 
+for adaptive evolution in association with a specific metabolic pathway in 
+response to chemosynthetic nutrition patterns. Moreover, our study suggests that 
+convergently evolved white body colour might have resulted from the contraction 
+of the crustacyanin gene family and the low content of astaxanthin in the body 
+of deep-sea decapods. Therefore, this study provides valuable genetic evidence 
+for convergent evolution in deep-sea decapods.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mec.15610
+PMID: 32851672 [Indexed for MEDLINE]
+
+
+7. PeerJ. 2020 Jun 19;8:e9387. doi: 10.7717/peerj.9387. eCollection 2020.
+
+The level of putative carotenoid-binding proteins determines the body color in 
+two species of endemic Lake Baikal amphipods.
+
+Drozdova P(1)(2), Saranchina A(1), Morgunova M(1), Kizenko A(3)(4), Lubyaga 
+Y(1)(2), Baduev B(1), Timofeyev M(1)(2).
+
+Author information:
+(1)Institute of Biology, Irkutsk State University, Irkutsk, Russia.
+(2)Baikal Research Centre, Irkutsk, Russia.
+(3)Institute of Cytology RAS, St. Petersburg, Russia.
+(4)Bioinformatics Institute, St. Petersburg, Russia.
+
+Color is an essential clue for intra- and interspecies communication, playing a 
+role in selection and speciation. Coloration can be based on nanostructures and 
+pigments; carotenoids and carotenoproteins are among the most widespread 
+pigments in animals. Over 350 species and subspecies of amphipods (Crustacea: 
+Amphipoda) endemic to Lake Baikal exhibit an impressive variability of colors 
+and coloration patterns, including intraspecific color morphs. However, the 
+mechanisms forming this diversity are underexplored, as while the carotenoid 
+composition of several transparent, green, and red species was investigated, 
+there have been no reports on the corresponding carotenoid-binding proteins. In 
+this work, we analyze the coloration of two brightly colored Baikal amphipods 
+characterized by intraspecific color variability, Eulimnogammarus cyaneus and E. 
+vittatus. We showed that the color of either species is defined by the level of 
+putative carotenoid-binding proteins similar to the pheromone/odorant-binding 
+protein family, as the concentration of these putative crustacyanin analogs was 
+higher in blue or teal-colored animals than in the orange- or yellow-colored 
+ones. At the same time, the color did not depend on the total carotenoid 
+content, as it was similar between animals of contrasting color morphs. By 
+exploring the diversity of these sequences within a larger phylogeny of 
+invertebrate crustacyanins, we show that amphipods lack orthologs of the 
+well-studied crustacyanins A and C, even though they possess some 
+crustacyanin-like sequences. The analysis of expression levels in E. cyaneus 
+showed that the transcripts encoding crustacyanin analogs had much higher 
+expression than the crustacyanin-like sequences, suggesting that the former 
+indeed contribute to the color of these brightly colored animals. The 
+crustacyanin analogs seem to act in a similar way to the well-studied 
+crustacyanins in body color formation, but the details of their action are still 
+to be revealed.
+
+©2020 Drozdova et al.
+
+DOI: 10.7717/peerj.9387
+PMCID: PMC7307558
+PMID: 32596057
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.
+
+
+8. Photochem Photobiol Sci. 2020 Apr 15;19(4):495-503. doi: 10.1039/d0pp00031k.
+
+Photophysics of deinoxanthin, the keto-carotenoid bound to the main S-layer unit 
+of Deinococcus radiodurans.
+
+Adamec F(1), Farci D(2), Bína D(3)(4), Litvín R(3)(4), Khan T(1), Fuciman M(1), 
+Piano D(2)(5), Polívka T(6).
+
+Author information:
+(1)Institute of Physics, Faculty of Science, University of South Bohemia, České 
+Budějovice, Czech Republic.
+(2)Department of Plant Physiology, Warsaw University of Life Sciences - SGGW, 
+Warsaw, Poland.
+(3)Institute of Chemistry, Faculty of Science, University of South Bohemia, 
+Czech Republic.
+(4)Biology Centre, Czech Academy of Sciences, Institute of Plant Molecular 
+Biology, České Budějovice, Czech Republic.
+(5)Laboratory of Photobiology and Plant Physiology, Department of Life and 
+Environmental Sciences University of Cagliari, Cagliari, Italy.
+(6)Institute of Physics, Faculty of Science, University of South Bohemia, České 
+Budějovice, Czech Republic. tpolivka@jcu.cz.
+
+The keto-carotenoid deinoxanthin, which occurs in the UV-resistant bacterium 
+Deinococcus radiodurans, has been investigated by ultrafast time-resolved 
+spectroscopy techniques. We have explored the excited-state properties of 
+deinoxanthin in solution and bound to the S-layer Deinoxanthin Binding Complex 
+(SDBC), a protein complex important for UV resistance and thermostability of the 
+organism. Binding of deinoxanthin to SDBC shifts the absorption spectrum to 
+longer wavelengths, but excited-state dynamics remain unaffected. The lifetime 
+of the lowest excited state (S1) of isolated deinoxanthin in methanol is 2.1 ps. 
+When bound to SDBC, the S1 lifetime is 2.4 ps, indicating essentially no 
+alteration of the effective conjugation length upon binding. Moreover, our data 
+show that the conformational disorder in both ground and excited states is the 
+same for deinoxanthin in methanol and bound to SDBC. Our results thus suggest a 
+rather loosely bound carotenoid in SDBC, making it very distinct from other 
+carotenoid-binding proteins such as Orange Carotenoid Protein (OCP) or 
+crustacyanin, both of which significantly restrain the carotenoid at the binding 
+site. Three deinoxanthin analogs were found to bind the SDBC, suggesting a 
+non-selective binding site of deinoxanthin in SDBC.
+
+DOI: 10.1039/d0pp00031k
+PMID: 32236233 [Indexed for MEDLINE]
+
+
+9. Mol Genet Genomics. 2020 Mar;295(2):453-464. doi: 10.1007/s00438-019-01633-0. 
+Epub 2019 Dec 7.
+
+Cloning and functional study of lipocalin: retinol-binding protein-like gene 
+family of the ridgetail white prawn, Exopalaemon carinicauda.
+
+Ma H(1), Sun J(1), Xu W(1), Gao W(1), Hu G(1)(2)(3)(4), Lai X(1)(2), Yan 
+B(1)(2)(3)(4), Gao H(5)(6)(7)(8).
+
+Author information:
+(1)Jiangsu Key Laboratory of Marine Bioresources and Environment/Jiangsu Key 
+Laboratory of Marine Biotechnology, Jiangsu Ocean University, Lianyungang, 
+222005, China.
+(2)Co-Innovation Center of Jiangsu Marine Bio-Industry Technology, Jiangsu Ocean 
+University, Lianyungang, 222005, China.
+(3)The Jiangsu Provincial Infrastructure for Conservation and Utilization of 
+Agricultural Germplasm, Nanjing, 210014, China.
+(4)Marine Resource Development Institute of Jiangsu (Lianyungang), Lianyungang, 
+222005, Jiangsu, China.
+(5)Jiangsu Key Laboratory of Marine Bioresources and Environment/Jiangsu Key 
+Laboratory of Marine Biotechnology, Jiangsu Ocean University, Lianyungang, 
+222005, China. huanmr@163.com.
+(6)Co-Innovation Center of Jiangsu Marine Bio-Industry Technology, Jiangsu Ocean 
+University, Lianyungang, 222005, China. huanmr@163.com.
+(7)The Jiangsu Provincial Infrastructure for Conservation and Utilization of 
+Agricultural Germplasm, Nanjing, 210014, China. huanmr@163.com.
+(8)Marine Resource Development Institute of Jiangsu (Lianyungang), Lianyungang, 
+222005, Jiangsu, China. huanmr@163.com.
+
+Lipocalin is a large family with complex functions including retinol-binding 
+protein (RBP), crustacyanin (CRCN), apolipoprotein D, etc. In shrimps, it is 
+well known that CRCN is related to body color. Recently, retinoic 
+acid/retinol-binding protein was found in shrimp. However, little is known about 
+the function of RBP and relationships among the gene members of lipocalin in 
+shrimps. Based on the transcriptome sequences responding to starvation stress, 
+three genes of the lipocalin-retinol-binding protein-like gene family 
+(lipocalin-1, lipocalin-2, and lipocalin-3) were cloned by RACE from the 
+ridgetail white prawn, Exopalaemon carinicauda. Homology analysis showed that 
+these three genes had high similarity with the known insect apolipoprotein D 
+gene and vertebrate retinol-binding protein gene, and they are of the same type 
+in terms of evolution. Fluorescence quantitative PCR showed that the above three 
+genes were mainly expressed in the ventral nerve cord of E. carinicauda. The 
+expression characteristics of the three genes at different developmental stages 
+showed that they were more highly expressed at the larval stage, which suggests 
+that they might be related to embryonic and larval development. The RNA 
+interference tests showed that after silencing lipocalin-1 and lipocalin-3, the 
+body color of individual shrimps turned slightly red and the blue pigment in the 
+epidermis largely disappeared, but no significant change took place in the 
+appearance of individuals after silencing lipocalin-2. In addition, on the 6th 
+and 16th days of interference, dead shrimps appeared in the lipocalin-1 and 
+lipocalin-3 interference groups. The dead shrimps had hard crusts and remained 
+in a molting posture. Totally, this study showed that the retinol-binding 
+protein-like gene obtained in this study had certain biological functions in the 
+growth and development and body color formation as CRCN; in addition, it also 
+plays a role in nerve system and molting of E. carinicauda.
+
+DOI: 10.1007/s00438-019-01633-0
+PMID: 31813041 [Indexed for MEDLINE]
+
+
+10. ACS Appl Mater Interfaces. 2019 Apr 3;11(13):12931-12940. doi: 
+10.1021/acsami.8b20995. Epub 2019 Mar 22.
+
+Hydrophobic Interface-Assisted Protein Crystallization: Theory and Experiment.
+
+Nanev CN(1), Saridakis E(2), Govada L(3), Kassen SC(3), Solomon HV(3), Chayen 
+NE(3).
+
+Author information:
+(1)Rostislaw Kaischew Institute of Physical Chemistry , Bulgarian Academy of 
+Sciences , Acad. G. Bonchev Str. Bl. 11 , Sofia 1113 , Bulgaria.
+(2)Structural and Supramolecular Chemistry Laboratory, Institute of Nanoscience 
+and Nanotechnology , National Centre for Scientific Research "Demokritos" , 
+Athens 15310 , Greece.
+(3)Computational and Systems Medicine, Department of Surgery and Cancer, Faculty 
+of Medicine , Imperial College London , London SW7 2AZ , U.K.
+
+Macromolecular crystallization is crucial to a large number of scientific 
+fields, including structural biology; drug design, formulation, and delivery; 
+manufacture of biomaterials; and preparation of foodstuffs. The purpose of this 
+study is to facilitate control of crystallization, by investigating hydrophobic 
+interface-assisted protein crystallization both theoretically and 
+experimentally. The application of hydrophobic liquids as nucleation promoters 
+or suppressors has rarely been investigated, and provides an underused avenue to 
+explore in protein crystallization. Theoretically, crystal nucleation is 
+regarded as a two-step process, the first step being a local increase in protein 
+concentration due to its adsorption on the hydrophobic surface. Subsequently, 
+the protein is ordered in a crystal lattice. The energetic aspect of crystal 
+nucleation on water/hydrophobic substance interfaces is approached by 
+calculating the balance between the cohesive energy maintaining integrity of the 
+two-dimensional crystal nucleus and the sum of destructive energies tending to 
+tear up the crystal. This is achieved by comparing the number of bonds shared by 
+the units forming the crystal and the number of unshared (dangling) bonds on the 
+crystal surface pointing toward the solution. The same approach is extended to 
+three-dimensional protein crystal nucleation at water/hydrophobic liquid 
+interfaces. Experimentally, we studied protein crystallization over oils and 
+other hydrophobic liquids (paraffin oil, FC-70 Fluorinert fluorinated oil, and 
+three chlorinated hydrocarbons). Crystallizations of α-lactalbumin and lysozyme 
+are compared, and additional information is acquired by studying α-crustacyanin, 
+trypsin, an insulin analogue, and protein Lpg2936. Depending on the protein 
+type, concentration, and the interface aging time, the proteins exhibit 
+different crystallization propensities depending on the hydrophobic liquid used. 
+Some hydrophobic liquids provoke an increase in the effective supersaturation, 
+which translates to enhancement of crystal nucleation at their interface with 
+the crystallization solution, leading to the formation of crystals.
+
+DOI: 10.1021/acsami.8b20995
+PMID: 30860355 [Indexed for MEDLINE]
+
+
+11. J Phys Chem Lett. 2018 May 3;9(9):2404-2410. doi:
+10.1021/acs.jpclett.8b00763.  Epub 2018 Apr 25.
+
+The Dynamic Origin of Color Tuning in Proteins Revealed by a Carotenoid Pigment.
+
+Loco D(1), Buda F(2), Lugtenburg J(2), Mennucci B(1).
+
+Author information:
+(1)Dipartimento di Chimica e Chimica Industriale , University of Pisa , via G. 
+Moruzzi 13 , 56124 , Pisa , Italy.
+(2)Leiden Institute of Chemistry , Leiden University , Einsteinweg 55 , 2300 RA 
+Leiden , The Netherlands.
+
+Understanding the microscopic origin of the color tuning in pigment-protein 
+complexes is a challenging yet fundamental issue in photoactive biological 
+systems. Here, we propose a possible interpretation by using a state-of-the-art 
+multiscale strategy based on the integration of quantum chemistry and 
+polarizable atomistic embeddings into a dynamic description. By means of such a 
+strategy we are able to resolve the long-standing dispute over the coloration 
+mechanism in the crustacyanin protein. It is shown that the combination of the 
+dynamical flexibility of the carotenoid pigments (astaxanthin) with the 
+responsive protein environment is essential to obtain quantitative predictions 
+of the spectral tuning. The strong linear correlation between the excitation 
+energies and the bond length alternation in the long-chain carotenoids modulated 
+by the dynamical protein environment is a novel finding explaining the high 
+color tunability in crustacyanin.
+
+DOI: 10.1021/acs.jpclett.8b00763
+PMID: 29683674
+
+
+12. Allergy Asthma Immunol Res. 2018 Jan;10(1):62-76. doi: 
+10.4168/aair.2018.10.1.62.
+
+Detecting Allergens From Black Tiger Shrimp Penaeus monodon That Can Bind and 
+Cross-link IgE by ELISA, Western Blot, and a Humanized Rat Basophilic Leukemia 
+Reporter Cell Line RS-ATL8.
+
+Jarupalee T(1)(2), Chatchatee P(3), Komolpis K(4), Suratannon N(3), Roytrakul 
+S(5), Yingchutrakul Y(5), Yimchuen W(6), Butta P(6), Jacquet A(7), Palaga 
+T(6)(8).
+
+Author information:
+(1)Graduate Program in Biotechnology, Faculty of Science, Chulalongkorn 
+University, Bangkok, Thailand.
+(2)Department of Biology, Faculty of Science, Mahidol University, Bangkok, 
+Thailand.
+(3)Allergy&Immunology Unit, Department of Pediatrics, Faculty of Medicine, 
+Chulalongkorn University, Bangkok, Thailand.
+(4)Institute of Biotechnology and Genetic Engineering, Chulalongkorn University, 
+Bangkok, Thailand.
+(5)National Center for Genetic Engineering and Biotechnology (BIOTEC), National 
+Science and Technology Development Agency, Pathum Thani, Thailand.
+(6)Department of Microbiology, Faculty of Science, Chulalongkorn University, 
+Bangkok, Thailand.
+(7)Chula-Vaccine Research Center, Faculty of Medicine, Chulalongkorn University, 
+Bangkok, Thailand.
+(8)Center of Excellence in Immunology and Immune-mediated Diseases, 
+Chulalongkorn University, Bangkok, Thailand. tanapat.p@chula.ac.th.
+
+BACKGROUND: Black tiger shrimp Penaeus monodon is one of the common causes of 
+shellfish allergy that is increasing worldwide. One of the important problems in 
+the management of shellfish allergy is the lack of accurate diagnostic assay 
+because the biological and immunological properties of allergens in black tiger 
+shrimp have not been well characterized. This study aims to detect proteins with 
+the ability to bind and cross-link immunoglobulin E (IgE) from black tiger 
+shrimp by enzyme-linked immunosorbent assay (ELISA), Western blot, and a 
+humanized rat basophilic leukemia reporter cell line RS-ATL8.
+METHODS: Sera from shrimp allergic subjects were subjected to ELISA and Western 
+blots using raw or cooked shrimp extract as antigens. Pooled sera were used to 
+sensitize the RS-ATL8 reporter cell line and cells were activated by shrimp 
+extract. Eluted protein extracts separated by sodium dodecyl sulfate 
+polyacrylamide gel electrophoresis (SDS-PAGE) were tested on the RS-ATL8 cell 
+line and subjected to mass spectrometry to identify potential candidate 
+allergens.
+RESULTS: Allergic sera reacted stronger to raw shrimp extract than cooked shrimp 
+extract (P=0.009). Western blot demonstrated that major IgE reactivity protein 
+bands were at 32-39 kDa and 91-230 kDa in both raw and cooked shrimp extracts. 
+The eluted protein bands at the molecular weight of 38 and 115 kDa from raw 
+shrimp extract induced IgE cross-linking as assayed by the RS-ATL8 cell line. 
+These protein bands were subjected to mass spectrometry for analysis. 
+Ubiquitin-activating enzyme and crustacyanin were identified as potential 
+candidate novel shrimp allergens.
+CONCLUSIONS: The RS-ATL8 reporter cell line can be used to identify potential 
+new shrimp allergens that can functionally cross-link IgE and induce mast cell 
+degranulation.
+
+Copyright © 2018 The Korean Academy of Asthma, Allergy and Clinical Immunology · 
+The Korean Academy of Pediatric Allergy and Respiratory Disease
+
+DOI: 10.4168/aair.2018.10.1.62
+PMCID: PMC5705486
+PMID: 29178679
+
+Conflict of interest statement: There are no financial or other issues that 
+might lead to conflict of interest.
+
+
+13. J Exp Biol. 2017 Nov 15;220(Pt 22):4109-4118. doi: 10.1242/jeb.164988. Epub
+2017  Aug 29.
+
+Rapid expansion of pigmentation genes in penaeid shrimp with absolute 
+preservation of function.
+
+Budd AM(1), Hinton TM(2), Tonks M(3), Cheers S(1), Wade NM(4)(5).
+
+Author information:
+(1)CSIRO Agriculture and Food, Queensland Biosciences Precinct, St Lucia, 
+Queensland 4067, Australia.
+(2)CSIRO Health and Biosecurity, Australian Animal Health Laboratories, Geelong, 
+Victoria 3220, Australia.
+(3)CSIRO Oceans and Atmosphere, Ecosciences Precinct, Dutton Park, Queensland 
+4102, Australia.
+(4)CSIRO Agriculture and Food, Queensland Biosciences Precinct, St Lucia, 
+Queensland 4067, Australia nick.wade@csiro.au.
+(5)ARC Research Hub for Advanced Prawn Breeding, James Cook University, 
+Townsville, Queensland 4811, Australia.
+
+Crustaceans form their distinct patterns and colours through the interaction of 
+the carotenoid astaxanthin with a protein called crustacyanin (CRCN). Presently, 
+the expression of just two CRCN genes is thought to provide the protein subunits 
+that combine to form the crustacyanin complex and associated carotenoid colour 
+change from red to blue. This study aimed to explore the genetic complexity 
+underlying the production of pigmentation and camouflage in penaeid shrimp. We 
+isolated 35 new CRCN genes from 12 species, and their sequence analysis 
+indicated that this gene family has undergone significant expansion and 
+diversification in this lineage. Despite this duplication and sequence 
+divergence, the structure of the CRCN proteins and their functional role in 
+shrimp colour production has been strictly conserved. Using CRCN isoforms from 
+Penaeus monodon as an example, we showed that isoforms were differentially 
+expressed, and that subtle phenotypes were produced by the specific 
+downregulation of individual isoforms. These findings demonstrate that our 
+knowledge of the molecular basis of pigmentation in shrimp was overly 
+simplistic, and suggests that multiple copies of the CRCN genes within species 
+may be advantageous for colour production. This result is of interest for the 
+origin and evolution of pigmentation in crustaceans, and the mechanisms by which 
+gene function is maintained, diversified or sub-functionalized.
+
+© 2017. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jeb.164988
+PMID: 28851818 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+14. Angew Chem Int Ed Engl. 2015 Sep 21;54(39):11564-6. doi:
+10.1002/anie.201501609.  Epub 2015 Jul 21.
+
+Protein-Induced Color Shift of Carotenoids in β-Crustacyanin.
+
+Gamiz-Hernandez AP(1), Angelova IN(2), Send R(2), Sundholm D(3), Kaila VR(4).
+
+Author information:
+(1)Department Chemie, Technische Universität München (TUM), Lichtenbergstraße 4, 
+85747 Garching (Germany).
+(2)BASF SE, Quantum Chemistry Group, GVM/M - B009, 67056 Ludwigshafen (Germany).
+(3)Department of Chemistry, University of Helsinki, A.I. Virtanens plats 1, 
+00014 Helsinki (Finland).
+(4)Department Chemie, Technische Universität München (TUM), Lichtenbergstraße 4, 
+85747 Garching (Germany). ville.kaila@ch.tum.de.
+
+β-Crustacyanin (β-CR) is a pigment protein responsible for the blue color of 
+lobsters. We show using correlated ab initio calculations how the protein 
+environment tunes the chromophores of β-CR through electrostatic and steric 
+effects.
+
+© 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/anie.201501609
+PMID: 26220698 [Indexed for MEDLINE]
+
+
+15. Phys Chem Chem Phys. 2015 Jul 14;17(26):16723-32. doi: 10.1039/c4cp06124a.
+
+On the origin and variation of colors in lobster carapace.
+
+Begum S(1), Cianci M, Durbeej B, Falklöf O, Hädener A, Helliwell JR, Helliwell 
+M, Regan AC, Ian F Watt C.
+
+Author information:
+(1)School of Chemistry, University of Manchester, Manchester, M13 9PL, UK. 
+john.helliwell@manchester.ac.uk.
+
+The chemical basis of the blue-black to pink-orange color change on cooking of 
+lobster, due to thermal denaturation of an astaxanthin-protein complex, 
+α-crustacyanin, in the lobster carapace, has so far been elusive. Here, we 
+investigate the relaxation of the astaxanthin pigment from its bound enolate 
+form to its neutral hydroxyketone form, as origin of the spectral shift, by 
+analyzing the response of UV-vis spectra of a water-soluble 
+3-hydroxy-4-oxo-β-ionone model of astaxanthin to increases in pH, and by 
+performing extensive quantum chemical calculations over a wide range of chemical 
+conditions. The enolization of astaxanthin is consistent with the X-ray 
+diffraction data of β-crustacyanin (PDB code: ) whose crystals possess the 
+distinct blue color. We find that enolate formation is possible within the 
+protein environment and associated with a large bathochromic shift, thus 
+offering a cogent explanation for the blue-black color and the response to 
+thermal denaturation and revealing the chemistry of astaxanthin upon complex 
+formation.
+
+DOI: 10.1039/c4cp06124a
+PMID: 25797168 [Indexed for MEDLINE]
+
+
+16. Faraday Discuss. 2015;177:429-41. doi: 10.1039/c4fd00166d.
+
+X-ray diffraction in temporally and spatially resolved biomolecular science.
+
+Helliwell JR(1), Brink A, Kaenket S, Starkey VL, Tanley SW.
+
+Author information:
+(1)School of Chemistry, University of Manchester M13 9PL, UK. 
+john.helliwell@manchester.ac.uk.
+
+Time-resolved Laue protein crystallography at the European Synchrotron Radiation 
+Facility (ESRF) opened up the field of sub-nanosecond protein crystal structure 
+analyses. There are a limited number of such time-resolved studies in the 
+literature. Why is this? The X-ray laser now gives us femtosecond (fs) duration 
+pulses, typically 10 fs up to ∼50 fs. Their use is attractive for the fastest 
+time-resolved protein crystallography studies. It has been proposed that single 
+molecules could even be studied with the advantage of being able to measure 
+X-ray diffraction from a 'crystal lattice free' single molecule, with or without 
+temporal resolved structural changes. This is altogether very challenging R&D. 
+So as to assist this effort we have undertaken studies of metal clusters that 
+bind to proteins, both 'fresh' and after repeated X-ray irradiation to assess 
+their X-ray-photo-dynamics, namely Ta6Br12, K2PtI6 and K2PtBr6 bound to a test 
+protein, hen egg white lysozyme. These metal complexes have the major advantage 
+of being very recognisable shapes (pseudo spherical or octahedral) and thereby 
+offer a start to (probably very difficult) single molecule electron density map 
+interpretations, both static and dynamic. A further approach is to investigate 
+the X-ray laser beam diffraction strength of a well scattering nano-cluster; an 
+example from nature being the iron containing ferritin. Electron crystallography 
+and single particle electron microscopy imaging offers alternatives to X-ray 
+structural studies; our structural studies of crustacyanin, a 320 kDa protein 
+carotenoid complex, can be extended either by electron based techniques or with 
+the X-ray laser representing a fascinating range of options. General outlook 
+remarks concerning X-ray, electron and neutron macromolecular crystallography as 
+well as 'NMR crystallography' conclude the article.
+
+DOI: 10.1039/c4fd00166d
+PMID: 25605312 [Indexed for MEDLINE]
+
+
+17. Proteomics. 2014 Jul;14(13-14):1660-73. doi: 10.1002/pmic.201300405. Epub
+2014  Jun 10.
+
+Protein profiling in the gut of Penaeus monodon gavaged with oral WSSV-vaccines 
+and live white spot syndrome virus.
+
+Kulkarni AD(1), Kiron V, Rombout JH, Brinchmann MF, Fernandes JM, Sudheer NS, 
+Singh BI.
+
+Author information:
+(1)Faculty of Biosciences and Aquaculture, University of Nordland, Bodø, Norway.
+
+White spot syndrome virus (WSSV) is a pathogen that causes considerable 
+mortality of the farmed shrimp, Penaeus monodon. Candidate 'vaccines', WSSV 
+envelope protein VP28 and formalin-inactivated WSSV, can provide short-lived 
+protection against the virus. In this study, P. monodon was orally intubated 
+with the aforementioned vaccine candidates, and protein expression in the gut of 
+immunised shrimps was profiled. The alterations in protein profiles in shrimps 
+infected orally with live-WSSV were also examined. Seventeen of the identified 
+proteins in the vaccine and WSSV-intubated shrimps varied significantly compared 
+to those in the control shrimps. These proteins, classified under exoskeletal, 
+cytoskeletal, immune-related, intracellular organelle part, intracellular 
+calcium-binding or energy metabolism, are thought to directly or indirectly 
+affect shrimp's immunity. The changes in the expression levels of crustacyanin, 
+serine proteases, myosin light chain, and ER protein 57 observed in orally 
+vaccinated shrimp may probably be linked to immunoprotective responses. On the 
+other hand, altered expression of proteins linked to exoskeleton, calcium 
+regulation and energy metabolism in WSSV-intubated shrimps is likely to 
+symbolise disturbances in calcium homeostasis and energy metabolism.
+
+© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201300405
+PMID: 24782450 [Indexed for MEDLINE]
+
+
+18. Comp Biochem Physiol C Toxicol Pharmacol. 2013 May;157(4):390-6. doi: 
+10.1016/j.cbpc.2013.03.006. Epub 2013 Apr 6.
+
+Effect of crude oil petroleum hydrocarbons on protein expression of the prawn 
+Macrobrachium borellii.
+
+Pasquevich MY(1), Dreon MS, Gutierrez Rivera JN, Vázquez Boucard C, Heras H.
+
+Author information:
+(1)Instituto de Investigaciones Bioquímicas de La Plata (INIBIOLP), Universidad 
+Nacional de La Plata (UNLP) - CONICET CCT-La Plata, La Plata, Argentina.
+
+Hydrocarbon pollution is a major environmental threat to ecosystems in marine 
+and freshwater environments, but its toxicological effect on aquatic organisms 
+remains little studied. A proteomic approach was used to analyze the effect of a 
+freshwater oil spill on the prawn Macrobrachium borellii. To this aim, proteins 
+were extracted from midgut gland (hepatopancreas) of male and female prawns 
+exposed 7 days to a sublethal concentration (0.6 ppm) of water-soluble fraction 
+of crude oil (WSF). Exposure to WSF induced responses at the protein expression 
+level. Two-dimensional gel electrophoresis (2-DE) revealed 10 protein spots that 
+were differentially expressed by WSF exposure. Seven proteins were identified 
+using MS/MS and de novo sequencing. Nm23 oncoprotein, arginine 
+methyltransferase, fatty aldehyde dehydrogenase and glutathione S-transferase 
+were down-regulated, whereas two glyceraldehyde-3-phosphate dehydrogenase 
+isoforms and a lipocalin-like crustacyanin (CTC) were up-regulated after WSF 
+exposure. CTC mRNA levels were further analyzed by quantitative real-time PCR 
+showing an increased expression after WSF exposure. The proteins identified are 
+involved in carbohydrate and amino acid metabolism, detoxification, transport of 
+hydrophobic molecules and cellular homeostasis among others. These results 
+provide evidence for better understanding the toxic mechanisms of hydrocarbons. 
+Moreover, some of these differentially expressed proteins would be employed as 
+potential novel biomarkers.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cbpc.2013.03.006
+PMID: 23570752 [Indexed for MEDLINE]
+
+
+19. J Phys Chem B. 2013 Sep 26;117(38):11209-19. doi: 10.1021/jp401873k. Epub
+2013  Apr 10.
+
+Origin of the bathochromic shift of astaxanthin in lobster protein: 2D 
+electronic spectroscopy investigation of β-crustacyanin.
+
+Christensson N(1), Žídek K, Magdaong NC, LaFountain AM, Frank HA, Zigmantas D.
+
+Author information:
+(1)Faculty of Physics, University of Vienna , Strudlhofgasse 4, 1090 Vienna, 
+Austria.
+
+We report on ultrafast spectroscopy study of β-crustacyanin, the carotenoprotein 
+responsible for the coloration of the lobster shell. β-Crustacyanin is formed by 
+two closely positioned astaxanthin molecules encapsulated in protein. The 2D 
+electronic spectroscopy together with two-color pump-probe was applied to 
+investigate the electronic structure, the excited-state dynamics, and the 
+influence of the excitonic interaction between the two carotenoids in 
+β-crustacyanin. By using the ∼20 fs laser pulses tuned to absorption bands of 
+the S0-S2 and S1-Sn transitions of carotenoids, we were able to trace full 
+excitation relaxation dynamics, starting with S2-S1 relaxation on the ∼30 fs 
+time scale and finishing with the ground-state recovery of 3.2 ps. Superimposed 
+on the relaxation dynamics in the 2D spectra, we observed long-lived beating 
+signals at the characteristic frequencies of astaxanthin vibrational modes. We 
+assign these oscillations to the ground-state vibrational wavepacket dynamics. 
+All major features of the 2D spectra, including amplitude and phase maps of the 
+long-lived oscillations, were reproduced by employing the exciton-vibronic 
+model. Consistent modeling of all optical properties of β-crustacyanin 
+(including absorption and circular dichroism spectra) points to the relatively 
+weak coupling between the two astaxanthin molecules (∼250 cm(-1)). This implies 
+that the excitonic coupling provides insignificant contribution to the 
+bathochromic shift in β-crustacyanin. We discuss the origin of the shift and 
+propose that it is caused by two major effects: conformational changes of 
+astaxanthin molecules (increase in effective conjugation length) together with 
+increased charge-transfer character of the S2 state. We put the bathochromic 
+shift in the broad perspective of other "blue" carotenoids properties.
+
+DOI: 10.1021/jp401873k
+PMID: 23510436 [Indexed for MEDLINE]
+
+
+20. PLoS One. 2013;8(2):e56920. doi: 10.1371/journal.pone.0056920. Epub 2013 Feb
+18.
+
+Molecular characterisation of colour formation in the prawn Fenneropenaeus 
+merguiensis.
+
+Ertl NG(1), Elizur A, Brooks P, Kuballa AV, Anderson TA, Knibb WR.
+
+Author information:
+(1)University of the Sunshine Coast, Sippy Downs, Queensland, Australia.
+
+INTRODUCTION: Body colouration in animals can have a range of functions, with 
+predator protection an important aspect of colour in crustaceans. Colour 
+determination is associated with the carotenoid astaxanthin, which is taken up 
+through the diet and stabilised in the tissues by the protein crustacyanin. As a 
+variety of genes are found to play a role in colour formation in other systems, 
+a holistic approach was employed in this study to determine the factors involved 
+in Fenneropenaeus merguiensis colouration.
+RESULTS: Full length F. merguiensis crustacyanin subunit A and C sequences were 
+isolated. Crustacyanin subunit A and C were found in the F. merguiensis 
+transcriptomes of the muscle/cuticle tissue, hepatopancreas, eye stalk and 
+nervous system, using 454 next generation sequencing technology. Custom 
+microarray analysis of albino, light and dark F. merguiensis cuticle tissue 
+showed genes encoding actin, sarcoplasmic calcium-binding protein and arginine 
+kinase to be 4-fold or greater differentially expressed (p<0.05) and 
+down-regulated in albinos when compared to light and dark samples. QPCR 
+expression analysis of crustacyanin and total astaxanthin pigment extraction 
+revealed significantly (p<0.05) lower crustacyanin subunit A and C gene 
+transcript copy numbers and total astaxanthin levels in albinos than in the 
+light and dark samples. Additionally, crustacyanin subunit A and C expression 
+levels correlated positively with each other.
+CONCLUSIONS: This study identified gene products putatively involved in 
+crustacean colouration, such as crustacyanin, sarcoplasmic calcium-binding 
+protein and forms of actin, and investigated differences in gene expression and 
+astaxanthin levels between albino, light and dark coloured prawns. These genes 
+open a path to enhance our understanding of the biology and regulation of colour 
+formation.
+
+DOI: 10.1371/journal.pone.0056920
+PMCID: PMC3575496
+PMID: 23441225 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+21. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2012 Aug 1;68(Pt 8):846-53.
+ doi: 10.1107/S1744309112026103. Epub 2012 Jul 26.
+
+Structural characterization of recombinant crustacyanin subunits from the 
+lobster Homarus americanus.
+
+Ferrari M(1), Folli C, Pincolini E, McClintock TS, Rössle M, Berni R, Cianci M.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Parma, Parco 
+Area delle Scienze 23/A, 43124 Parma, Italy.
+
+Crustacean crustacyanin proteins are linked to the production and modification 
+of carapace colour, with direct implications for fitness and survival. Here, the 
+structural and functional properties of the two recombinant crustacyanin 
+subunits H(1) and H(2) from the American lobster Homarus americanus are 
+reported. The two subunits are structurally highly similar to the corresponding 
+natural apo crustacyanin CRTC and CRTA subunits from the European lobster H. 
+gammarus. Reconstitution studies of the recombinant crustacyanin proteins H(1) 
+and H(2) with astaxanthin reproduced the bathochromic shift of 85-95 nm typical 
+of the natural crustacyanin subunits from H. gammarus in complex with 
+astaxanthin. Moreover, correlations between the presence of crustacyanin genes 
+in crustacean species and the resulting carapace colours with the spectral 
+properties of the subunits in complex with astaxanthin confirmed this 
+genotype-phenotype linkage.
+
+DOI: 10.1107/S1744309112026103
+PMCID: PMC3412759
+PMID: 22869108 [Indexed for MEDLINE]
+
+
+22. Acta Biochim Pol. 2012;59(1):163-5. Epub 2012 Mar 17.
+
+Carotenoid-binding proteins; accessories to carotenoid function.
+
+Pilbrow J(1), Garama D, Carne A.
+
+Author information:
+(1)Department of Biochemistry, University of Otago, Dunedin, New Zealand. 
+jodi.pilbrow@otago.ac.nz
+
+Understanding of the widespread biological importance of carotenoids is 
+increasing. Accompanying this is the developing recognition that the interaction 
+of carotenoids with other molecules, such as proteins, is also essential. Here 
+the significance of carotenoid-protein interactions with respect to biological 
+function is reviewed for three well characterised carotenoprotein complexes; 
+crustacyanin, the orange carotenoid protein and glutathione-S-transferase P1. In 
+addition a preliminary report is made on the recent partial purification of an 
+echinenone-binding protein extracted from a New Zealand sea urchin, Evechinus 
+chloroticus.
+
+PMID: 22428138 [Indexed for MEDLINE]
+
+
+23. J Exp Biol. 2012 Jan 15;215(Pt 2):343-50. doi: 10.1242/jeb.064592.
+
+Mechanisms of colour adaptation in the prawn Penaeus monodon.
+
+Wade NM(1), Anderson M, Sellars MJ, Tume RK, Preston NP, Glencross BD.
+
+Author information:
+(1)Commonwealth Scientific and Industrial Research Organisation (CSIRO) Food 
+Futures Flagship, Division of Marine and Atmospheric Research, Ecosciences 
+Precinct, Dutton Park, QLD 4102, Australia. nick.wade@csiro.au
+
+Exposure of prawns to dark- or light-coloured substrates is known to trigger a 
+strong colour adaptation response through expansion or contraction of the 
+colouration structures in the prawn hypodermis. Despite the difference in colour 
+triggered by this adaptive response, total levels of the predominant carotenoid 
+pigment, astaxanthin, are not modified, suggesting that another mechanism is 
+regulating this phenomenon. Astaxanthin binds to a specific protein called 
+crustacyanin (CRCN), and it is the interaction between the quantities of each of 
+these compounds that produces the diverse range of colours seen in crustacean 
+shells. In this study, we investigated the protein changes and genetic 
+regulatory processes that occur in prawn hypodermal tissues during adaptation to 
+black or white substrates. The amount of free astaxanthin was higher in animals 
+adapted to dark substrate compared with those adapted to light substrate, and 
+this difference was matched by a strong elevation of CRCN protein. However, 
+there was no difference in the expression of CRCN genes either across the moult 
+cycle or in response to background substrate colour. These results indicate that 
+exposure to a dark-coloured substrate causes an accumulation of CRCN protein, 
+bound with free astaxanthin, in the prawn hypodermis without modification of 
+CRCN gene expression. On light-coloured substrates, levels of CRCN protein in 
+the hypodermis are reduced, but the carotenoid is retained, undispersed in the 
+hypodermal tissue, in an esterified form. Therefore, the abundance of CRCN 
+protein affects the distribution of pigment in prawn hypodermal tissues, and is 
+a crucial regulator of the colour adaptation response in prawns.
+
+DOI: 10.1242/jeb.064592
+PMID: 22189778 [Indexed for MEDLINE]
+
+
+24. J Phys Chem B. 2011 Mar 31;115(12):3216-25. doi: 10.1021/jp111579u. Epub 2011
+ Mar 10.
+
+Theoretical spectroscopy of astaxanthin in crustacyanin proteins: absorption, 
+circular dichroism, and nuclear magnetic resonance.
+
+Neugebauer J(1), Veldstra J, Buda F.
+
+Author information:
+(1)Gorlaeus Laboratories, Leiden Institute of Chemistry, Leiden University, 
+Leiden, The Netherlands. j.neugebauer@chem.leidenuniv.nl
+
+The bathochromic shift (>0.5 eV) in the absorption spectrum of the carotenoid 
+astaxanthin upon incorporation into crustacyanin proteins is investigated. 
+Several previously suggested explanations are tested and assessed by direct 
+comparison to experimental absorption and circular dichroism spectra. We 
+investigate the effect of extended models for the protein binding pocket, which 
+results in only small contributions to the total shift. The possible explanation 
+in terms of protonated histidine residues interacting with the astaxanthin 
+molecules is analyzed by calculation of nuclear magnetic resonance chemical 
+shifts. The results indicate that such a protonation is unlikely. In addition, 
+we show that excitonic couplings are too weak to explain the red shift in the 
+absorption spectrum, but the resulting intensity distribution actually leads to 
+a blue shift of the major absorption peak. These findings are corroborated by a 
+comparison of the theoretical and experimental circular dichroism spectra. We 
+analyze changes in the relative orientation of the two astaxanthin molecules 
+present in β-crustacyanin, which may lead to increased excitonic coupling and 
+modified intensity distributions.
+
+DOI: 10.1021/jp111579u
+PMID: 21391640 [Indexed for MEDLINE]
+
+
+25. J Synchrotron Radiat. 2011 Jan;18(1):79-83. doi: 10.1107/S0909049510034977.
+Epub  2010 Nov 5.
+
+Deriving the ultrastructure of α-crustacyanin using lower-resolution structural 
+and biophysical methods.
+
+Rhys NH(1), Wang MC, Jowitt TA, Helliwell JR, Grossmann JG, Baldock C.
+
+Author information:
+(1)Faculty of Life Sciences, University of Manchester, Manchester M13 9PL, UK.
+
+The low-resolution structure of α-crustacyanin has been determined to 30 Å 
+resolution using negative-stain electron microscopy (EM) with single-particle 
+averaging. The protein, which is an assembly of eight β-crustacyanin dimers, 
+appears asymmetrical and rather open in layout. A model was built to the EM map 
+using the X-ray crystallographic structure of β-crustacyanin guided by PISA 
+interface analyses. The model has a theoretical sedimentation coefficient that 
+matches well with the experimentally derived value from sedimentation velocity 
+analytical ultracentrifugation. Additionally, the EM model has similarities to 
+models calculated independently by rigid-body modelling to small-angle X-ray 
+scattering (SAXS) data and extracted in silico from the β-crustacyanin crystal 
+lattice. Theoretical X-ray scattering from each of these models is in reasonable 
+agreement with the experimental SAXS data and together suggest an overall design 
+for the α-crustacyanin assembly.
+
+DOI: 10.1107/S0909049510034977
+PMCID: PMC3004261
+PMID: 21169698 [Indexed for MEDLINE]
+
+
+26. Proteomics. 2009 Jun;9(12):3353-67. doi: 10.1002/pmic.200800518.
+
+Comparative proteomic profiles of the hepatopancreas in Fenneropenaeus chinensis 
+response to hypoxic stress.
+
+Jiang H(1), Li F, Xie Y, Huang B, Zhang J, Zhang J, Zhang C, Li S, Xiang J.
+
+Author information:
+(1)Key Laboratory of Experimental Marine Biology, Institute of Oceanology, 
+Chinese Academy of Sciences, Qingdao, PR China.
+
+Hypoxia, as one suboptimal environmental condition, can affect the physiological 
+state of shrimp during pond aquaculture. To better understand the mechanism of 
+response to hypoxic stress in Chinese shrimp Fenneropenaeus chinensis, proteome 
+research approach was utilized. Differentially expressed proteins of 
+hepatopancreas in adult Chinese shrimp between the control and hypoxia-stressed 
+groups were screened. By 2-DE analysis, 67 spots showed obvious changes after 
+hypoxia. Using LC-ESI-MS/MS, 51 spots representing 33 proteins were identified 
+including preamylase, arginine kinase, phosphopyruvate hydratase, citrate 
+synthase, ATP synthase alpha subunit, chymotrypsin BI, chitinase, ferritin, 
+C-type lectin receptors, transketolase, formylglutathione hydrolase, 
+formyltetrahydrofolate dehydrogenase, aldehyde dehydrogenase, glutathione 
+peroxidase, cytosolic manganese superoxide dismutase, protein disulfide 
+isomerase, beta-actin, oncoprotein nm23, crustacyanin-C1 and so on. These 
+proteins could be functionally classified into several groups such as proteins 
+related to energy production, metabolism-related proteins, immune-related 
+proteins, antioxidant proteins, chaperones, cytoskeleton proteins and ungrouped 
+proteins. The transcription levels of ten selected genes encode the identified 
+proteins were analyzed by real-time PCR at different sampling times of hypoxia. 
+This study is the first analysis of differentially expressed proteins in the 
+hepatopancreas of shrimp after hypoxia and provides a new insight for further 
+study in hypoxic stress response of shrimp at the protein level.
+
+DOI: 10.1002/pmic.200800518
+PMID: 19579223 [Indexed for MEDLINE]
+
+
+27. Comp Biochem Physiol B Biochem Mol Biol. 2009 May;153(1):39-42. doi: 
+10.1016/j.cbpb.2009.01.007. Epub 2009 Jan 19.
+
+Characterisation of the carotenoprotein found in carapace shells of Jasus 
+lalandii.
+
+Timme E(1), Walwyn D, Bailey A.
+
+Author information:
+(1)Biosciences, CSIR, Pretoria, South Africa. Elizabeth.Timme@uct.ac.za
+
+Carotenoprotein, containing astaxanthin as the prosthetic group was extracted 
+from the carapace shells of the lobster, Jasus lalandii. The material, with a 
+molecular mass of around 400,000 Da and lambda(max) 525 nm (alpha-crustacyanin), 
+was readily converted under the conditions used for extraction and on standing 
+to the subunit (beta-crustacyanin) of molecular mass around 40,000 Da and 
+lambda(max) 560 nm. The latter complex was stable up to 65 degrees C and between 
+pH 5 and 8. Both the large molecule and the subunit showed the reversible 
+bathochromic shift (lambda(max) approximately 480 nm) after being subjected to 
+conditions of heat above 65 degrees C and below 85 degrees C and pH between 3 
+and 10, which alter the natural protein orientation. Above 85 degrees C and 
+outside of the pH range, the shift was irreversible. Crustacyanin from J. 
+lalandii differed from the blue crustacyanin of the Homarus species with respect 
+to visible spectra (lambda(max) 632 nm and lambda(max) 585 nm) and by displaying 
+a hypsochromic shift between the alpha- and beta-crustacyanin. Stability of the 
+alpha-crustacyanin and affinity to DE52 also differed. Yellow protein, with a 
+lambda(max) 409/410 nm as described for the Homarus species was not detected in 
+this J. lalandii study, although it may have been co-eluted. The properties of 
+the extracted complex show potential for its use as a natural water soluble food 
+colourant or temperature sensitive indicator.
+
+DOI: 10.1016/j.cbpb.2009.01.007
+PMID: 19416706 [Indexed for MEDLINE]
+
+
+28. Mol Biol Evol. 2009 Aug;26(8):1851-64. doi: 10.1093/molbev/msp092. Epub 2009
+May  4.
+
+Evolution of a novel carotenoid-binding protein responsible for crustacean shell 
+color.
+
+Wade NM(1), Tollenaere A, Hall MR, Degnan BM.
+
+Author information:
+(1)School of Integrative Biology, University of Queensland, Brisbane, 
+Queensland, Australia.
+
+Carotenoids are commonly used by disparate metazoans to produce external 
+coloration, often in direct association with specific proteins. In one such 
+example, crustacyanin (CRCN) and the carotenoid astaxanthin combine to form a 
+multimeric protein complex that is critical for the array of external shell 
+colors in clawed lobsters. Through a combined biochemical, molecular genetic, 
+and bioinformatic survey of the distribution of CRCN across the animal kingdom, 
+we have found that CRCNs are restricted to, but widespread among, malacostracan 
+crustaceans. These crustacean-specific genes separate into two distinct clades 
+within the lipocalin protein superfamily. We show that CRCN differentially 
+localizes to colored shell territories and the underlying epithelium in 
+panulirid lobsters. Given the paramount importance of CRCN in crustacean shell 
+colors and patterns and the critical role these play in survival, reproduction, 
+and communication, we submit that the origin of the CRCN gene family early in 
+the evolution of malacostracan crustaceans significantly contributed to the 
+success of this group of arthropods.
+
+DOI: 10.1093/molbev/msp092
+PMID: 19414522 [Indexed for MEDLINE]
+
+
+29. J Phys Chem B. 2009 Apr 16;113(15):5311-7. doi: 10.1021/jp810754s.
+
+Excited-state modeling of the astaxanthin dimer predicts a minor contribution 
+from exciton coupling to the bathochromic shift in crustacyanin.
+
+Strambi A(1), Durbeej B.
+
+Author information:
+(1)Department of Physical and Analytical Chemistry, Uppsala University, Box 518, 
+SE-751 20 Uppsala, Sweden.
+
+The >0.50 eV bathochromic shift of the absorption by the carotenoid astaxanthin 
+in crustacyanin, the carotenoprotein responsible for the coloration of lobster 
+shell, is believed to result from ground-state polarization of the chromophore 
+and/or exciton coupling between the two chromophores of each protein subunit. 
+Here, the contribution of exciton coupling to the shift is quantified using 
+quantum chemical calculations that do not rely on the dipole-dipole 
+approximation but rather consider the full astaxanthin dimer in the geometry 
+relevant for the protein-bound state. Employing a variety of methods, it is 
+found that the exciton coupling amounts to 0.04 eV only. Furthermore, even when 
+more closely aggregated dimers than the one in the protein are considered, the 
+predicted couplings remain small (0.05-0.09 eV). These findings demonstrate that 
+the bathochromic shift cannot be explained in terms of exciton coupling. It is 
+therefore argued that polarization is likely to be the dominant mechanism, a 
+notion supported by the fact that calculations carried out at the same levels of 
+theory identify a scenario (hydrogen bonding with a histidine residue) whose 
+contribution to the shift vastly exceeds that of exciton coupling.
+
+DOI: 10.1021/jp810754s
+PMID: 19317475 [Indexed for MEDLINE]
+
+
+30. Acta Crystallogr B. 2009 Apr;65(Pt 2):238-47. doi: 10.1107/S0108768109004649.
+ Epub 2009 Mar 16.
+
+X-ray crystal structures of diacetates of 6-s-cis and 6-s-trans astaxanthin and 
+of 7,8-didehydroastaxanthin and 7,8,7',8'-tetradehydroastaxanthin: comparison 
+with free and protein-bound astaxanthins.
+
+Bartalucci G(1), Fisher S, Helliwell JR, Helliwell M, Liaaen-Jensen S, Warren 
+JE, Wilkinson J.
+
+Author information:
+(1)School of Chemistry, University of Manchester, Manchester M13 9PL, England.
+
+The crystal structures of the 6-s-cis [s-cis-(1)] and 6-s-trans [s-trans-(1)] 
+conformers of the diacetates of astaxanthin (AXT) and those of 
+(3S,3'S)-7,8-didehydroastaxanthin 
+[(3S,3'S)-3,3'-dihydroxy-7,8-didehydro-beta,beta-carotene-4,4'-dione (2)] and 
+(3S,3'S)-7,8,7',8'-tetradehydroastaxanthin 
+[(3S,3'S)-3,3'-dihydroxy-7,8,7',8'-tetradehydro-beta,beta-carotene-4, 4'-dione 
+(3)] are reported. The conformations of these four molecules vary in particular 
+with the angle of twist of the end rings out of the plane of the polyene chain; 
+for s-cis-(1), the end rings are twisted out of the plane of the polyene chain 
+by an angle of -49.0 (5)degrees , and the conformation is therefore similar to 
+that found for unesterified AXT as well as for the carotenoids, canthaxanthin 
+and beta,beta-carotene. For s-trans-(1), the end rings are coplanar with the 
+polyene chain and its conformation is much more similar to that of the 
+protein-bound AXT in the blue protein, crustacyanin, which is found in the shell 
+of lobsters, although s-trans-(1) shows much less bowing of the polyene chain. 
+In (2) and (3) the end rings are also almost coplanar with the polyene chain 
+with the end rings in (2) in the s-cis conformation, and in (3) in the s-trans 
+conformation. Thus, an extensive ensemble of the possible beta end-ring 
+conformations has been determined. These structures are compared with one 
+another as well as unbound, unesterified AXT and protein-bound AXT. Also, the 
+effect of the end-ring conformations on the colour and UV-vis spectra of the 
+crystals was established.
+
+DOI: 10.1107/S0108768109004649
+PMID: 19299880 [Indexed for MEDLINE]
+
+
+31. Folia Biol (Krakow). 2005;53(3-4):109-14. doi: 10.3409/173491605775142756.
+
+Carotenoids and carotenoproteins in Asellus aquaticus L. (Crustacea: Isopoda).
+
+Czeczuga B(1), Czeczuga-Semeniuk E, Semeniuk A.
+
+Author information:
+(1)Department of General Biology, Medical University, Kilińiskiego 1, 15-089 
+Białystok, Poland. bazzylio@poczta.onet.pl
+
+Column (CC), thin-layer (TLC), high-performance liquid (HPLC) and ion-exchange 
+chromatography (IEC), were used to investigate corotenoid and carotenoprotein 
+complexes in Asellus aquaticus specimens from the Narew river. The following 
+carotenoids were found: alpha-carotene, beta-carotene, beta-cryptoxanthin, 
+lutein, zeaxanthin, diadinoxanthin, mutatoxanthin, crustaxanthin, echinenone, 
+hydroxyechinenone, phoenicoxanthin, canthaxanthin and astaxanthin. Astaxanthin 
+(37.5%), canthaxanthin (21.4%) and phoenicoxanthin (12.3%) were found in the 
+largest amounts. The total carotenoid content was 13.824 microg g(-1) of dry 
+mass. Carotenoprotein complexes containing astaxanthin as the prosthetic group 
+were purified from Asellus aquaticus. The carotenoprotein complexes belonged to 
+the crustacyanins group as alpha- and gamma-crustacyanin. The protein forming 
+the alpha-crustacyanin contained large amounts of such amino-acids as asparic 
+acid, glutamic acid and leucine, whereas the protein of the gamma-crustacyanin 
+contained primarily glutamic acid, glycine and lysine.
+
+DOI: 10.3409/173491605775142756
+PMID: 19058530 [Indexed for MEDLINE]
+
+
+32. Bioinspir Biomim. 2008 Sep;3(3):035007. doi: 10.1088/1748-3182/3/3/035007.
+Epub  2008 Jul 31.
+
+Biomaterial-based infrared detection.
+
+Yavuz O(1), Aldissi M.
+
+Author information:
+(1)Fractal Systems, Inc., 200 9th Avenue North, Suite 100, Safety Harbor, FL 
+34695, USA.
+
+This effort is focused on the use of crustacyanin protein extracted from the 
+lobster shell in IR detection and imaging applications. In addition to the 
+protein's excellent reversible thermo-active response in the IR region of 
+interest, electrical characteristics versus temperature showed that the protein 
+can be used as an electro-optic thermal sensing device as well. The high 
+sensitivity and fast response of the protein layer were further enhanced by the 
+deposition process we used. The thin coatings were prepared by Langmuir-Blodgett 
+and self-assembly techniques. Furthermore, the protein exhibited temperature 
+variation under Ti:sapphire laser excitation at different wavelengths in ambient 
+environment. We have also shown that the protein exhibits fluorescence 
+properties after exposure to IR heat. Stability of the protein, which is 
+important in this type of application, was also demonstrated using the different 
+characterization techniques after repeated heating/cooling cycles. We can 
+conclude that this protein represents a formidable candidate for the fabrication 
+of IR sensors and microbolometers for uncooled IR imaging applications.
+
+DOI: 10.1088/1748-3182/3/3/035007
+PMID: 18667761 [Indexed for MEDLINE]
+
+
+33. Acta Crystallogr B. 2007 Apr;63(Pt 2):328-37. doi: 10.1107/S0108768106052633.
+ Epub 2007 Mar 16.
+
+Unravelling the chemical basis of the bathochromic shift in the lobster 
+carapace; new crystal structures of unbound astaxanthin, canthaxanthin and 
+zeaxanthin.
+
+Bartalucci G(1), Coppin J, Fisher S, Hall G, Helliwell JR, Helliwell M, 
+Liaaen-Jensen S.
+
+Author information:
+(1)Department of Chemistry, University of Manchester, Manchester M13 9PL, 
+England.
+
+The crystal structures of the unbound carotenoids, synthetic astaxanthin 
+(3S,3'S:3R,3'S:3R,3'R in a 1:2:1 ratio), canthaxanthin and (3R,3'S, 
+meso)-zeaxanthin are compared with each other and the protein bound astaxanthin 
+molecule in the carotenoprotein, beta-crustacyanin. Three new crystal forms of 
+astaxanthin have been obtained, using different crystallization conditions, 
+comprising a chloroform solvate, a pyridine solvate and an unsolvated form. In 
+each structure, the astaxanthin molecules, which are similar to one another, are 
+centrosymmetric and adopt the 6-s-cis conformation; the end rings are bent out 
+of the plane of the polyene chain by angles of -42.6 (5), -48.9 (5) and -50.4 
+(3) degrees , respectively, and are disordered, showing the presence of both R 
+and S configurations (in a 1:1 ratio). In the crystal packing of the chloroform 
+and pyridine solvates, the astaxanthin molecules show pair-wise end-to-end 
+intermolecular hydrogen bonding of the adjacent 3-hydroxyl and 4-keto oxygens, 
+whereas in the unsolvated crystal form, the hydrogen-bonding interaction is 
+intermolecular. In addition, there are intermolecular C-H hydrogen bonds in all 
+three structures. The canthaxanthin structure, measured at 100 and 293 K, also 
+adopts the 6-s-cis conformation, but with disorder of one end ring only. The 
+rotation of the end rings out of the plane of the polyene chains (ca -50 degrees 
+for each structure) is similar to that of astaxanthin. A number of possible C-H 
+hydrogen bonds to the keto O atoms are also observed. (3R,3'S, meso)-zeaxanthin 
+is centrosymmetric with a C5-C6-C7-C8 torsion angle of -74.9 (3) degrees ; the 
+molecules show pair-wise hydrogen bonding between the hydroxyl O atoms. In 
+addition, for all the crystal structures the polyene chains were arranged one 
+above the other, with intermolecular distances of 3.61-3.79 A, indicating the 
+presence of pi-stacking interactions. Overall, these six crystal structures 
+provide an ensemble of experimentally derived results that allow several key 
+parameters, thought to influence colour tuning of the bathochromic shift of 
+astaxanthin in crustacyanin, to be varied. The fact that the colour of each of 
+the six crystals remains red, rather than turning blue, is therefore especially 
+significant.
+
+DOI: 10.1107/S0108768106052633
+PMID: 17374944 [Indexed for MEDLINE]
+
+
+34. Arch Biochem Biophys. 2007 Feb 15;458(2):121-7. doi:
+10.1016/j.abb.2006.10.005.  Epub 2006 Oct 30.
+
+Vertebrate and invertebrate carotenoid-binding proteins.
+
+Bhosale P(1), Bernstein PS.
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, 65 Medical Drive, Moran Eye 
+Center, University of Utah School of Medicine, Salt Lake City, UT 84132, USA.
+
+In invertebrates and vertebrates, carotenoids are ubiquitous colorants, 
+antioxidants, and provitamin A compounds that must be absorbed from dietary 
+sources and transported to target tissues where they are taken up and stabilized 
+to perform their physiological functions. These processes occur in a specific 
+and regulated manner mediated by high-affinity carotenoid-binding proteins. In 
+this mini-review, we examine the published literature on carotenoid-binding 
+proteins in vertebrate and invertebrate systems, and we report our initial 
+purification and characterization of a novel lutein-binding protein isolated 
+from liver of Japanese quail (Coturnix japonica).
+
+DOI: 10.1016/j.abb.2006.10.005
+PMCID: PMC1831825
+PMID: 17188641 [Indexed for MEDLINE]
+
+
+35. Ann N Y Acad Sci. 2006 Sep;1077:208-13. doi: 10.1196/annals.1362.047.
+
+Upside-down protein crystallization: designing microbatch experiments for 
+microgravity.
+
+Khurshid S(1), Chayen NE.
+
+Author information:
+(1)Biological Structure and Function Section, Division of Biomedical Sciences, 
+Faculty of Medicine, Imperial College London, Exhibition Road, London SW7 2AZ, 
+United Kingdom.
+
+The benefits of protein crystal growth in microgravity are well documented. The 
+crystallization vessels currently employed for microgravity crystallization are 
+far from optimal with regards to cost, sample volume, size, and ease of use. The 
+use of microbatch experiments is a favorable alternative in each respect: 96 
+experiments of 0.5-2 microL volumes can be performed in a single microtiter tray 
+measuring 5 x 8 cm and costing 1 pound sterling each. To date, the use of 
+microbatch has not been pursued on account of concerns of oil leakage. To 
+address this issue, a novel approach to microbatch crystallization experiments 
+is described, where the microbatch plates are inverted throughout the duration 
+of the experiment. The findings intimate the application of the microbatch 
+method to space flight and the potential to drastically increase the output of 
+microgravity crystallization research .
+
+DOI: 10.1196/annals.1362.047
+PMID: 17124125 [Indexed for MEDLINE]
+
+
+36. Ann N Y Acad Sci. 2006 Sep;1077:172-83. doi: 10.1196/annals.1362.013.
+
+Hypergravity as a crystallization tool.
+
+Nanev CN(1), Dimitrov I, Hodjaoglu F.
+
+Author information:
+(1)Institute of Physical Chemistry, Bulgarian Academy of Sciences, Sofia, 
+Bulgaria. nanev@ipchp.ipc.bas.bg
+
+The centrifugal increase of concentration is nondestructive, rapid, and simple 
+technology. Therefore it is used to create a higher supersaturation that is 
+required for crystal nucleation, as the one that is appropriate for the 
+subsequent growth. Crystal nucleation is evoked in glass capillary tubes filled 
+with protein solutions. The couple ferritin/ apoferritin is used as model 
+proteins in the present article. Although differing in their masses the two 
+(quasi) spherical molecules have exactly the same size and surface properties. 
+Together with the temperature-independent solubility this makes them very 
+convenient for our investigations. Decoupling nucleation and growth, for 
+example, by means of hypergravity makes it possible to grow 
+quasi-equidimensional crystals. The use of monodisperse crystalline forms of 
+therapeutic agents can ensure constant time-release of protein-based 
+medications.
+
+DOI: 10.1196/annals.1362.013
+PMID: 17124122 [Indexed for MEDLINE]
+
+
+37. Phys Chem Chem Phys. 2006 Sep 21;8(35):4053-71. doi: 10.1039/b605682b. Epub
+2006  Aug 2.
+
+Protein-bound chromophores astaxanthin and phytochromobilin: excited state 
+quantum chemical studies.
+
+Durbeej B(1), Eriksson LA.
+
+Author information:
+(1)Department of Chemistry, University of Siena, Via Aldo Moro 2, I-53100, 
+Siena, Italy. bo.durbeej@kvac.uu.se
+
+We present an overview of excited state quantum chemical calculations aimed at 
+elucidating controversial issues regarding the photochemistry of the 
+protein-bound chromophores astaxanthin and phytochromobilin. In particular, we 
+show how the application of time-dependent density functional theory and other 
+single-reference quantum chemical excited state methods have contributed to shed 
+new light on the origin of the >0.5 eV bathochromic shift of the electronic 
+absorption by the carotenoid astaxanthin in the protein macromolecular complex 
+crustacyanin, and the mechanism for C15-Z,syn --> C15-E,anti isomerization of 
+the tetrapyrrole phytochromobilin that underlies the photoactivation of the 
+plant photoreceptor phytochrome. Within the approximation that exciton coupling 
+is neglected, the calculations on astaxanthin provide support for the notion 
+that the bathochromic shift, which is responsible for the slate-blue coloration 
+of lobster shell, is due to polarization rather than a conformational change of 
+the chromophore in the protein-bound state. Furthermore, the polarization is 
+attributed to a hydrogen-bonded protonated histidine residue. The calculations 
+on phytochromobilin, in turn, suggest that a stepwise C15-Z,syn --> C15-E,syn 
+(photochemical), C15-E,syn --> C15-E,anti (thermal) mechanism is much more 
+favorable than a concerted, fully photochemical mechanism, and that neutral 
+forms of the chromophore are much less likely to photoisomerize than the parent, 
+protonated form. Accordingly, the calculations indirectly support the view that 
+the photoactivation of phytochrome does not involve a proton transfer from the 
+chromophore to the surrounding protein.
+
+DOI: 10.1039/b605682b
+PMID: 17028694 [Indexed for MEDLINE]
+
+
+38. J Phys Chem A. 2005 Apr 14;109(14):3120-7. doi: 10.1021/jp0444161.
+
+Femtosecond time-resolved absorption spectroscopy of astaxanthin in solution and 
+in alpha-crustacyanin.
+
+Ilagan RP(1), Christensen RL, Chapp TW, Gibson GN, Pascher T, Polívka T, Frank 
+HA.
+
+Author information:
+(1)Department of Chemistry, University of Connecticut, Storrs, Connecticut 
+06269-3060, USA.
+
+Steady-state absorption and femtosecond time-resolved spectroscopic studies have 
+been carried out on astaxanthin dissolved in CS2, methanol, and acetonitrile, 
+and in purified alpha-crustacyanin. The spectra of the S0 --> S2 and S1 --> S(n) 
+transitions were found to be similarly dependent on solvent environment. The 
+dynamics of the excited-state decay processes were analyzed with both single 
+wavelength and global fitting procedures. In solution, the S1 lifetime of 
+astaxanthin was found to be approximately 5 ps and independent of solvent. In 
+alpha-crustacyanin, the lifetime was noticeably shorter at approximately 1.8 ps. 
+Both fitting procedures led to the conclusion that the lifetime of the S2 state 
+was either comparable to or shorter than the instrument response time. The data 
+support the idea that dimerization of astaxanthin in alpha-crustacyanin is the 
+primary molecular basis for the bathochromic shift of the S0 --> S2 and S1 --> 
+S(n) transitions. Planarization of the astaxanthin molecule, which leads to a 
+longer effective pi-electron conjugated chain and a lower S1 energy, accounts 
+for the shorter tau1 in the protein.
+
+DOI: 10.1021/jp0444161
+PMID: 16833638 [Indexed for MEDLINE]
+
+
+39. Proc Natl Acad Sci U S A. 2006 Jan 17;103(3):597-601. doi: 
+10.1073/pnas.0504860102. Epub 2006 Jan 6.
+
+Experiment and theory for heterogeneous nucleation of protein crystals in a 
+porous medium.
+
+Chayen NE(1), Saridakis E, Sear RP.
+
+Author information:
+(1)Biological Structure and Function Section, Division of Biomedical Sciences, 
+Sir Alexander Fleming Building, Imperial College London, London SW7 2AZ, United 
+Kingdom.
+
+The determination of high-resolution structures of proteins requires crystals of 
+suitable quality. Because of the new impetus given to structural biology by 
+structural genomics/proteomics, the problem of crystallizing proteins is 
+becoming increasingly acute. There is therefore an urgent requirement for the 
+development of new efficient methods to aid crystal growth. Nucleation is the 
+crucial step that determines the entire crystallization process. Hence, the holy 
+grail is to design a "universal nucleant," a substrate that induces the 
+nucleation of crystals of any protein. We report a theory for nucleation on 
+disordered porous media and its experimental testing and validation using a 
+mesoporous bioactive gel-glass. This material induced the crystallization of the 
+largest number of proteins ever crystallized using a single nucleant. The 
+combination of the model and the experimental results opens up the scope for the 
+rational design of nucleants, leading to alternative means of controlling 
+crystallization.
+
+DOI: 10.1073/pnas.0504860102
+PMCID: PMC1334630
+PMID: 16407115 [Indexed for MEDLINE]
+
+
+40. J Am Chem Soc. 2005 Feb 9;127(5):1438-45. doi: 10.1021/ja045049+.
+
+Spectroscopy and quantum chemical modeling reveal a predominant contribution of 
+excitonic interactions to the bathochromic shift in alpha-crustacyanin, the blue 
+carotenoprotein in the carapace of the lobster Homarus gammarus.
+
+van Wijk AA(1), Spaans A, Uzunbajakava N, Otto C, de Groot HJ, Lugtenburg J, 
+Buda F.
+
+Author information:
+(1)Leiden Institute of Chemistry, Gorlaeus Laboratories, Leiden University, P.O. 
+Box 9502, NL-2300 RA Leiden, The Netherlands.
+
+To resolve the molecular basis of the coloration mechanism of 
+alpha-crustacyanin, we used (13)C-labeled astaxanthins as chromophores for 
+solid-state (13)C NMR and resonance Raman spectroscopy of [6,6',7,7']-(13)C(4) 
+alpha-crustacyanin and [8,8',9,9',10,10',11,11',20,20']-(13)C(10) 
+alpha-crustacyanin. We complement the experimental data with time-dependent 
+density functional theory calculations on several models based on the structural 
+information available for beta-crustacyanin. The data rule out major changes and 
+strong polarization effects in the ground-state electron density of astaxanthin 
+upon binding to the protein. Conformational changes in the chromophore and 
+hydrogen-bond interactions between the astaxanthin and the protein can account 
+only for about one-third of the total bathochromic shift in alpha-crustacyanin. 
+The exciton coupling due to the proximity of two astaxanthin chromophores is 
+found to be large, suggesting that aggregation effects in the protein represent 
+the primary source of the color change.
+
+DOI: 10.1021/ja045049+
+PMID: 15686376 [Indexed for MEDLINE]
+
+
+41. Ann N Y Acad Sci. 2004 Nov;1027:1-9. doi: 10.1196/annals.1324.001.
+
+Effects of buoyancy-driven convection on nucleation and growth of protein 
+crystals.
+
+Nanev CN(1), Penkova A, Chayen N.
+
+Author information:
+(1)Institute of Physical Chemistry, Bulgarian Academy of Sciences, 1113 Sofia, 
+Bulgaria. nanev@ipchp.ipc.bas.bg
+
+Protein crystallization has been studied in presence or absence of 
+buoyancy-driven convection. Gravity-driven flow was created, or suppressed, in 
+protein solutions by means of vertically directed density gradients that were 
+caused by generating suitable temperature gradients. The presence of enhanced 
+mixing was demonstrated directly by experiments with crustacyanin, a 
+blue-colored protein, and other materials. Combined with the vertical tube 
+position the enhanced convection has two main effects. First, it reduces the 
+number of nucleated hen-egg-white lysozyme (HEWL) crystals, as compared with 
+those in a horizontal capillary. By enabling better nutrition from the protein 
+in the solution, convection results in growth of fewer larger HEWL crystals. 
+Second, we observe that due to convection, trypsin crystals grow faster. 
+Suppression of convection, achieved by decreasing solution density upward in the 
+capillary, can to some extent mimic conditions of growth in microgravity. Thus, 
+impurity supply, which may have a detrimental effect on crystal quality, was 
+avoided.
+
+DOI: 10.1196/annals.1324.001
+PMID: 15644340 [Indexed for MEDLINE]
+
+
+42. Acta Crystallogr D Biol Crystallogr. 2004 Mar;60(Pt 3):493-8. doi: 
+10.1107/S090744490400037X. Epub 2004 Feb 25.
+
+The structure and refinement of apocrustacyanin C2 to 1.3 A resolution and the 
+search for differences between this protein and the homologous apoproteins A1 
+and C1.
+
+Habash J(1), Helliwell JR, Raftery J, Cianci M, Rizkallah PJ, Chayen NE, Nneji 
+GA, Zagalsky PF.
+
+Author information:
+(1)Section of Structural Chemistry, Department of Chemistry, University of 
+Manchester, Manchester M13 9PL, England.
+
+The blue carotenoprotein alpha-crustacyanin of Homarus gammarus lobster carapace 
+is comprised chemically of five 20 kDa subunits. Only two genes for the proteins 
+have been isolated (J. B. C. Findlay, personal communication) and the five 
+apoproteins fall into two sets of homologous proteins based on their chemical 
+properties (CRTC, consisting of apoproteins C(1), C(2) and A(1), and CRTA, 
+consisting of apoproteins A(2) and A(3)). The diffraction quality of apo C(2) 
+has been improved from 2.2 to 1.3 A and its structure solved. The structure is 
+compared with the A(1) and C(1) proteins determined at 1.4 A [Cianci et al. 
+(2001), Acta Cryst. D57, 1219-1229] and 1.15 A, respectively [Gordon et al. 
+(2001), Acta Cryst. D57, 1230-1237] and found to be very similar. Normalized 
+B-factor difference plots per residue of different types were used to try to 
+find chemically modified residues; none were found at these resolutions. It 
+remains possible that the differences between the CRTC proteins result from 
+differences in amidation. By comparison of a crystal grown with glycerol 
+(studied at 1.6 A) and one grown without glycerol (studied at 1.3 A) it was seen 
+that glycerol bound at the astaxanthin site.
+
+DOI: 10.1107/S090744490400037X
+PMID: 14993674 [Indexed for MEDLINE]
+
+
+43. Org Biomol Chem. 2004 Feb 21;2(4):489-98. doi: 10.1039/b313639f. Epub 2004
+Jan  21.
+
+Protonated canthaxanthins as models for blue carotenoproteins.
+
+Kildahl-Andersen G(1), Lutnaes BF, Liaaen-Jensen S.
+
+Author information:
+(1)Department of Chemistry, Norwegian University of Science and Technology 
+(NTNU), NO-7491 Trondheim, Norway.
+
+It has been suggested that astaxanthin 
+(3,3'-dihydroxy-beta,beta-carotene-4,4'-dione) in the carotenoprotein 
+alpha-crustacyanin occurs in the diprotonated form. As a model system for 
+protonated astaxanthin in [small alpha]-crustacyanin the reactions of 
+canthaxanthin ([small beta],[small beta]-carotene-4,4[prime or minute]-dione) 
+with Bronsted acids (CF(3)COOH and CF(3)SO(3)H) and the Lewis acid 
+BF(3)-etherate have been investigated. Structures of C-5 protonated, C-7 
+protonated, enolised O-4 protonated and O-4,4[prime or minute], C-7 
+triprotonated canthaxanthin have been established by VIS-NIR and NMR 
+spectroscopy. The charge distribution in the cations has been considered by 
+comparison of the (13)C chemical shift difference relative to neutral relevant 
+carotenoid models. The experimental evidence for protonated canthaxanthins 
+differs significantly from previous AM1 calculations. Experimental data for 
+O-4,4[prime or minute], C-7 triprotonated canthaxanthin relative to C-7 
+protonated canthaxanthin is considered a relevant model for O-4,4[prime or 
+minute] diprotonated canthaxanthin, in comparison with neutral canthaxanthin. 
+The positive charge was mainly located at C-6/6[prime or minute][dbl 
+greater-than] C-8/8[prime or minute] > C-10/10[prime or minute] > C-12/12[prime 
+or minute] > C-14/14[prime or minute][similar] C-15/15[prime or minute] in the 
+polyene chain. Moreover, it was inferred that only 14% of the positive charge is 
+delocalised to the polyene chain, the remaining charge must therefore be located 
+at the protonated carbonyl moiety. The results are discussed in relation to 
+previous solid state NMR studies of (13)C labelled astaxanthin in [small 
+alpha]-crustacyanin and recent X-ray analysis of [small beta]-crustacyanin.
+
+DOI: 10.1039/b313639f
+PMID: 14770227
+
+
+44. Acta Crystallogr D Biol Crystallogr. 2003 Dec;59(Pt 12):2072-82. doi: 
+10.1107/s0907444903025952. Epub 2003 Nov 27.
+
+Unravelling the structural chemistry of the colouration mechanism in lobster 
+shell.
+
+Chayen NE(1), Cianci M, Grossmann JG, Habash J, Helliwell JR, Nneji GA, Raftery 
+J, Rizkallah PJ, Zagalsky PF.
+
+Author information:
+(1)Imperial College, London SW7 2AZ, England.
+
+Erratum in
+    Acta Crystallogr D Biol Crystallogr. 2005 Sep;61(Pt 9):1312.
+
+Biochemistry, biological crystallography, spectroscopy, solution X-ray 
+scattering and microscopy have been applied to study the molecular basis of the 
+colouration in lobster shell. This article presents a review of progress 
+concentrating on recent results but set in the context of more than 50 years of 
+work. The blue colouration of the carapace of the lobster Homarus gammarus is 
+provided by a multimolecular carotenoprotein, alpha-crustacyanin. The complex is 
+a 16-mer of five different subunits each binding the carotenoid, astaxanthin 
+(AXT). A breakthrough in the structural studies came from the determination of 
+the structure of beta-crustacyanin (protein subunits A1 with A3 with two shared 
+bound astaxanthins). This was solved by molecular replacement using 
+apocrustacyanin A1 as the search motif. A molecular movie has now been 
+calculated by linear interpolation based on these two 'end-point' protein 
+structures, i.e. apocrustacyanin A1 and A1 associated with the two astaxanthins 
+in beta-crustacyanin, and is presented with this paper. This movie highlights 
+the structural changes forced upon the carotenoid on complexation. In contrast, 
+the protein-binding site remains relatively unchanged in the binding region, but 
+there is a large conformational change occurring in a more remote surface-loop 
+region. It is suggested here that this loop could be important in complexation 
+of AXT and contributes to the spectral properties. Also presented here is the 
+first observation of single-crystal diffraction of the full 'alpha-crustacyanin' 
+complex comprising 16 protein subunits and 16 bound AXT molecules (i.e eight 
+beta-crustacyanins) at 5 A resolution. Optimization of crystallization 
+conditions is still necessary as these patterns show multiple crystallite 
+character, however, 10 A resolution single-crystal diffraction has now been 
+achieved. Provision of the new SRS MPW 10 and SRS MPW 14 beamline robotic 
+systems will greatly assist in the surveying of the many alpha-crustacyanin 
+crystallization trials that are being made. New solution X-ray scattering (SXS) 
+measurements of beta- and alpha-crustacyanin are also presented. The 
+beta-crustacyanin SXS data serve to show how the holo complex fits the SXS 
+curve, whereas the apocrustacyanin A1 homodimer from the crystal data naturally 
+does not. Reconstructions of alpha-crustacyanin were accomplished from its 
+scattering-profile shape. The most plausible ultrastructure, based on a fourfold 
+symmetry constraint, was found to be a stool with four legs. The latter is 
+compared with published electron micrographs. A detailed crystal structure of 
+alpha-crustacyanin is now sought in order to relate the full 150 nm bathochromic 
+shift of AXT to that complete molecular structure, compared with the 100 nm 
+achieved by the beta-crustacyanin protein dimer alone. Rare lobster colourations 
+have been brought to attention as a result of this work and are discussed in an 
+appendix.
+
+DOI: 10.1107/s0907444903025952
+PMID: 14646064 [Indexed for MEDLINE]
+
+
+45. Acta Crystallogr D Biol Crystallogr. 2003 Aug;59(Pt 8):1529-31. doi: 
+10.1107/s0907444903013416. Epub 2003 Jul 23.
+
+beta-Crustacyanin, the blue-purple carotenoprotein of lobster carapace: 
+consideration of the bathochromic shift of the protein-bound astaxanthin.
+
+Zagalsky PF(1).
+
+Author information:
+(1)Department of Molecular Biology and Biochemistry, Royal Holloway College, 
+University of London, Egham, Surrey TW20 OEX, England. p.zagalsky@rhul.ac.uk
+
+The crystal structure of a beta-crustacyanin allows an analysis of the various 
+proposals for the mechanism of the bathochromic shift from orange to purple-blue 
+of astaxanthin in this lobster carotenoprotein. Structural and previous chemical 
+and biophysical studies suggest that extension of conjugation by coplanarization 
+of the beta-ionone rings with the polyene chain and polarization resulting from 
+hydrogen bonding at the C(4) and C(4') keto groups may be mainly responsible for 
+the bathochromic shift. Additional contributions may arise from medium effects 
+and possibly from bowing of the polyene chain on binding. Previous biophysical 
+data revealing a somewhat symmetrical polarization of astaxanthin in 
+crustacyanin are thereby also accounted for. A puzzling feature remains 
+unexplained: the bathochromic shifts, larger than that of astaxanthin, shown by 
+some cyclopentenedione carotenoids in reconstituted carotenoproteins. This mini 
+review enlarges on the original analysis and conclusions of Cianci et al. 
+[(2002), Proc. Natl Acad. Sci. USA, 99, 9795-9800].
+
+DOI: 10.1107/s0907444903013416
+PMID: 12876374 [Indexed for MEDLINE]
+
+
+46. Acta Crystallogr D Biol Crystallogr. 2003 Jul;59(Pt 7):1117-23. doi: 
+10.1107/s0907444903007959. Epub 2003 Jun 27.
+
+Apocrustacyanin C(1) crystals grown in space and on earth using vapour-diffusion 
+geometry: protein structure refinements and electron-density map comparisons.
+
+Habash J(1), Boggon TJ, Raftery J, Chayen NE, Zagalsky PF, Helliwell JR.
+
+Author information:
+(1)Department of Chemistry, University of Manchester, Manchester M13 9PL, 
+England.
+
+Models of apocrustacyanin C(1) were refined against X-ray data recorded on 
+Bending Magnet 14 at the ESRF to resolutions of 1.85 and 2 A from a space-grown 
+and an earth-grown crystal, respectively, both using vapour-diffusion 
+crystal-growth geometry. The space crystals were grown in the APCF on the NASA 
+Space Shuttle. The microgravity crystal growth showed a cyclic nature attributed 
+to Marangoni convection, thus reducing the benefits of the microgravity 
+environment, as reported previously [Chayen et al. (1996), Q. Rev. Biophys. 29, 
+227-278]. A subsequent mosaicity evaluation, also reported previously, showed 
+only a partial improvement in the space-grown crystals over the earth-grown 
+crystals [Snell et al. (1997), Acta Cryst. D53, 231-239], contrary to the case 
+for lysozyme crystals grown in space with liquid-liquid diffusion, i.e. without 
+any major motion during growth [Snell et al. (1995), Acta Cryst. D52, 
+1099-1102]. In this paper, apocrustacyanin C(1) electron-density maps from the 
+two refined models are now compared. It is concluded that the electron-density 
+maps of the protein and the bound waters are found to be better overall for the 
+structures of apocrustacyanin C(1) studied from the space-grown crystal compared 
+with those from the earth-grown crystal, even though both crystals were grown 
+using vapour-diffusion crystal-growth geometry. The improved residues are on the 
+surface of the protein, with two involved in or nearby crystal lattice-forming 
+interactions, thus linking an improved crystal-growth mechanism to the molecular 
+level. The structural comparison procedures developed should themselves be 
+valuable for evaluating crystal-growth procedures in the future.
+
+DOI: 10.1107/s0907444903007959
+PMID: 12832753 [Indexed for MEDLINE]
+
+
+47. FEBS Lett. 2003 Jun 5;544(1-3):189-93. doi: 10.1016/s0014-5793(03)00486-1.
+
+Quaternary structure of alpha-crustacyanin from lobster as seen by small-angle 
+X-ray scattering.
+
+Dellisanti CD(1), Spinelli S, Cambillau C, Findlay JB, Zagalsky PF, Finet S, 
+Receveur-Bréchot V.
+
+Author information:
+(1)School of Biochemistry and Molecular Biology, University of Leeds, Mount 
+Preston Street, UK.
+
+The structure of alpha-crustacyanin, the blue carotenoprotein of lobster 
+(Homarus gammarus) carapace, has been investigated for the first time using 
+small-angle X-ray scattering. In this paper, we have determined the dimensions 
+of this protein composed of eight heterodimeric subunits of beta-crustacyanin. 
+Analysis of the scattering spectra and estimation of the shape of 
+alpha-crustacyanin show that the protein fits into a cylinder with an axial 
+length of 238 A and a radius of 47.5 A, in which the eight beta-crustacyanin 
+molecules are probably arranged in a helical manner.
+
+DOI: 10.1016/s0014-5793(03)00486-1
+PMID: 12782314 [Indexed for MEDLINE]
+
+
+48. Acta Crystallogr D Biol Crystallogr. 2003 May;59(Pt 5):843-9. doi: 
+10.1107/s0907444903004219. Epub 2003 Apr 25.
+
+The properties of (2Fo - Fc) and (Fo - Fc) electron-density maps at 
+medium-to-high resolutions.
+
+Minichino A(1), Habash J, Raftery J, Helliwell JR.
+
+Author information:
+(1)Section of Structural Chemistry, Department of Chemistry, University of 
+Manchester, Manchester M13 9PL, England.
+
+This paper reports on the efficacy of (F(o) - F(c)) versus (2F(o) - F(c)) 
+electron-density maps at 3.2 A resolution. Firstly, a study is reported of a 
+simple truncation at 2.3 and 3.2 A of the 1.6 A resolution crystal structure of 
+concanavalin A at room temperature [Emmerich et al. (1994), Acta Cryst. D50, 
+749-756] with 149 known bound water molecules. Secondly, the concanavalin A 1.6 
+A resolution model was re-refined but with the data truncated to 3.2 A. In a 
+similar evaluation, these procedures were repeated for the apocrustacyanin A1 
+cryotemperature 1.4 A resolution model [Cianci et al. (2001), Acta Cryst. D57, 
+1219-1229]. Maps at 1.4, 2.3 and 3.2 A resolutions were first generated and the 
+structure was then re-refined at 3.2 A and additionally at 2.3 A resolution. The 
+results on concanavalin A show that the number of bound water molecules that are 
+resolved decreases by two thirds from 1.6 to 3.2 A, but that key structural 
+waters, for example at the transition metal and the calcium ion, are still 
+resolved in the (F(o) - F(c)) map but not in the (2F(o) - F(c)) map. For 
+apocrustacyanin A1, the results with these two difference maps were less 
+clear-cut. Two key structural bound waters (w93 and w105) were selected that had 
+been previously identified in beta-crustacyanin [Cianci et al. (2002), Proc. 
+Natl Acad. Sci. USA, 99, 9795-9800] in protein-carotenoid interactions. The 
+behaviour of w93 is similar to that of concanavalin A key waters, but that of 
+w105 is not. These behaviours were therefore explored in finer resolution 
+increments, namely 2.9, 2.7 and 2.5 A. Finally, further tests on "real" data 
+sets for peanut lectin and concanavalin A at medium resolution confirm these map 
+properties, namely that an (F(o) - F(c)) difference electron-density map is more 
+effective than a (2F(o) - F(c)) map in showing bound water structure at lower 
+resolutions ( approximately 3.2 A). This result is important since a growing 
+number of protein crystal structure studies are concerned with 
+multi-macromolecular complexes and are at such resolutions. Details of the bound 
+solvent can still be revealed at 3.2 A via the (F(o) - F(c)) map calculation. 
+The physical basis of the limitation of the (2F(o) - F(c)) map presumably lies 
+in the series-termination error effect on such a map involving the first 
+negative ripple from the protein atom to which a bound water oxygen is hydrogen 
+bonded, sufficiently cancelling its peak. In addition, re-refinements at 3.2 A 
+show distances that can agree with known values but B values that do not agree 
+with known values.
+
+DOI: 10.1107/s0907444903004219
+PMID: 12777800 [Indexed for MEDLINE]
+
+
+49. Org Lett. 2002 Jul 25;4(15):2521-4. doi: 10.1021/ol026146f.
+
+Study of alpha-crustacyanin utilizing halogenated canthaxanthins.
+
+Liu J(1), Shelton NL, Liu RS.
+
+Author information:
+(1)Department of Chemistry, Murray State University, Murray, Kentucky 42071, 
+USA. jin.liu@murraystate.edu
+
+[structure: see text] The preparations and spectroscopic characteristics of five 
+all-trans halogenated canthaxanthins are described in this letter. The 
+air/light-sensitive halogenated canthaxanthins were used to study 
+alpha-crustacyanin, a blue astaxanthin-protein complex, which is isolated from 
+the carapace of the lobster. Steric and electronegative effects of the halogen 
+substituents on the noncovalent interaction between astaxanthin and the protein 
+in alpha-crustacyanin were observed.
+
+DOI: 10.1021/ol026146f
+PMID: 12123366 [Indexed for MEDLINE]
+
+
+50. Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):9795-800. doi: 
+10.1073/pnas.152088999. Epub 2002 Jul 15.
+
+The molecular basis of the coloration mechanism in lobster shell: 
+beta-crustacyanin at 3.2-A resolution.
+
+Cianci M(1), Rizkallah PJ, Olczak A, Raftery J, Chayen NE, Zagalsky PF, 
+Helliwell JR.
+
+Author information:
+(1)Department of Chemistry, University of Manchester, Manchester M13 9PL, United 
+Kingdom.
+
+The binding of the carotenoid astaxanthin (AXT) in the protein 
+multimacromolecular complex crustacyanin (CR) is responsible for the blue 
+coloration of lobster shell. The structural basis of the bathochromic shift 
+mechanism has long been elusive. A change in color occurs from the orange red of 
+the unbound dilute AXT (lambda(max) 472 nm in hexane), the well-known color of 
+cooked lobster, to slate blue in the protein-bound live lobster state 
+(lambda(max) 632 nm in CR). Intriguingly, extracted CR becomes red on 
+dehydration and on rehydration goes back to blue. Recently, the innovative use 
+of softer x-rays and xenon derivatization yielded the three-dimensional 
+structure of the A(1) apoprotein subunit of CR, confirming it as a member of the 
+lipocalin superfamily. That work provided the molecular replacement search model 
+for a crystal form of the beta-CR holo complex, that is an A(1) with A(3) 
+subunit assembly including two bound AXT molecules. We have thereby determined 
+the structure of the A(3) molecule de novo. Lobster has clearly evolved an 
+intricate structural mechanism for the coloration of its shell using AXT and a 
+bathochromic shift. Blue/purple AXT proteins are ubiquitous among invertebrate 
+marine animals, particularly the Crustacea. The three-dimensional structure of 
+beta-CR has identified the protein contacts and structural alterations needed 
+for the AXT color regulation mechanism.
+
+DOI: 10.1073/pnas.152088999
+PMCID: PMC125020
+PMID: 12119396 [Indexed for MEDLINE]
+
+
+51. Acta Crystallogr D Biol Crystallogr. 2001 Sep;57(Pt 9):1230-7. doi: 
+10.1107/s0907444901009362. Epub 2001 Aug 23.
+
+The C1 subunit of alpha-crustacyanin: the de novo phasing of the crystal 
+structure of a 40 kDa homodimeric protein using the anomalous scattering from S 
+atoms combined with direct methods.
+
+Gordon EJ(1), Leonard GA, McSweeney S, Zagalsky PF.
+
+Author information:
+(1)Macromolecular Crystallography, European Synchrotron Radiation Facility, BP 
+220, F-38043 Grenoble CEDEX, France. gordon@esrf.fr
+
+The previously unknown crystal structure of the C(1) subunit of the 
+carotenoid-binding protein alpha-crustacyanin has been determined using the 
+anomalous scattering available at 1.77 A wavelength to determine the partial 
+structure of the S atoms intrinsic to the native protein. The resulting 
+'heavy-atom' phases, in conjunction with near-atomic resolution (d(min) = 1.15 
+A) data, were then used to initiate successful structure determination using a 
+direct-methods approach. This is, to the authors' knowledge, the first time such 
+a small anomalous signal ( approximately 1%) has been used to aid the 
+determination of a macromolecular structure. As well as the structure itself, 
+the methods used during data collection and those used in the elucidation of the 
+sulfur 'heavy-atom' partial structure are described here. As predicted, the C(1) 
+subunit adopts a tertiary structure typical of the lipocalin superfamily: an 
+eight-stranded antiparallel beta-barrel with a repeated +1 topology. The 
+beta-barrel has a calyx shape with the two molecules in the asymmetric unit 
+interacting in such a way that the open ends of each calyx face each other, 
+although they do not form a single elongated pocket. A comparison of this 
+structure with those of other members of the lipocalin superfamily has allowed 
+speculation as to the nature of carotenoid binding by the protein.
+
+DOI: 10.1107/s0907444901009362
+PMID: 11526314 [Indexed for MEDLINE]
+
+
+52. Acta Crystallogr D Biol Crystallogr. 2001 Sep;57(Pt 9):1219-29. doi: 
+10.1107/s0907444901009350. Epub 2001 Aug 23.
+
+Structure of lobster apocrustacyanin A1 using softer X-rays.
+
+Cianci M(1), Rizkallah PJ, Olczak A, Raftery J, Chayen NE, Zagalsky PF, 
+Helliwell JR.
+
+Author information:
+(1)Department of Chemistry, University of Manchester, Manchester M13 9PL, 
+England.
+
+The molecular basis of the camouflage colouration of marine crustacea is often 
+provided by carotenoproteins. The blue colour of the lobster carapace, for 
+example, is intricately associated with a multimacromolecular 16-mer complex of 
+protein subunits each with a bound astaxanthin molecule. The protein subunits of 
+crustacyanin fall into two distinct subfamilies, CRTC and CRTA. Here, the 
+crystal structure solution of the A(1) protein of the CRTC subfamily is 
+reported. The problematic nature of the structure solution of the CRTC proteins 
+(both C(1) and A(1)) warranted consideration and the development of new 
+approaches. Three putative disulfides per protein subunit were likely to exist 
+based on molecular-homology modelling against known lipocalin protein 
+structures. With two such subunits per crystallographic asymmetric unit, this 
+direct approach was still difficult as it involved detecting a weak signal from 
+these sulfurs and suggested the use of softer X-rays, combined with high data 
+multiplicity, as reported previously [Chayen et al. (2000), Acta Cryst. D56, 
+1064-1066]. This paper now describes the structure solution of CRTC in the form 
+of the A(1) dimer based on use of softer X-rays (2 A wavelength). The structure 
+solution involved a xenon derivative with an optimized xenon L(I) edge f" signal 
+and a native data set. The hand of the xenon SIROAS phases was determined by 
+using the sulfur anomalous signal from a high-multiplicity native data set also 
+recorded at 2 A wavelength. For refinement, a high-resolution data set was 
+measured at short wavelength. All four data sets were collected at 100 K. The 
+refined structure to 1.4 A resolution based on 60 276 reflections has an R 
+factor of 17.7% and an R(free) of 22.9% (3137 reflections). The structure is 
+that of a typical lipocalin, being closely related to insecticyanin, to 
+bilin-binding protein and to retinol-binding protein. This A(1) monomer or dimer 
+can now be used as a search motif in the structural studies of the oligomeric 
+forms alpha- and beta-crustacyanins, which contain bound astaxanthin molecules.
+
+DOI: 10.1107/s0907444901009350
+PMID: 11526313 [Indexed for MEDLINE]
+
+
+53. Biochim Biophys Acta. 2001 Jan 12;1544(1-2):301-10. doi: 
+10.1016/s0167-4838(00)00242-9.
+
+A study of protein-carotenoid interactions in the astaxanthin-protein 
+crustacyanin by absorption and Stark spectroscopy; evidence for the presence of 
+three spectrally distinct species.
+
+Krawczyk S(1), Britton G.
+
+Author information:
+(1)Institute of Physics, Maria Curie-Skłodowska University, Lublin, Poland. 
+skraw@tytan.umcs.lublin.pl
+
+Molecular mechanisms underlying the peculiar spectral properties of the 
+carotenoid astaxanthin in alpha-crustacyanin, the blue carotenoprotein isolated 
+from the exoskeleton of the lobster Homarus gammarus, were investigated by 
+comparing the basic electrooptical parameters of astaxanthin free in vitro with 
+those of astaxanthin in the complex. Absorption and electroabsorption (Stark 
+effect) spectra were obtained for alpha-crustacyanin in low-temperature glasses 
+to provide information about the molecular interactions that lead to the large 
+bathochromic shift of the spectra resulting from this complexation. The 
+low-temperature spectra reveal the presence of at least three spectral forms of 
+alpha-crustacyanin, with vibronic (0-0) transitions at 14000 cm(-1), 13500 
+cm(-1) and 11600 cm(-1) (corresponding to approximately 630, 660 and 780 nm, 
+respectively, at room temperature) and with relative aboundance 85%, 10% and 5%. 
+The longer wavelength absorbing species have not previously been detected. The 
+changes in polarizability and in permanent dipole moments associated with the 
+S0-->S2 electronic transition for all these forms are about 1.5 times larger 
+than for isolated astaxanthin. The results are discussed with reference to the 
+symmetric polarization model for astaxanthin in alpha-crustacyanin.
+
+DOI: 10.1016/s0167-4838(00)00242-9
+PMID: 11341939 [Indexed for MEDLINE]
+
+
+54. Acta Crystallogr D Biol Crystallogr. 2000 Aug;56(Pt 8):1064-6. doi: 
+10.1107/s0907444900008556.
+
+Apocrustacyanin A1 from the lobster carotenoprotein alpha-crustacyanin: 
+crystallization and initial X-ray analysis involving softer X-rays.
+
+Chayen NE(1), Cianci M, Olczak A, Raftery J, Rizkallah PJ, Zagalsky PF, 
+Helliwell JR.
+
+Author information:
+(1)Biological Structure and Function Section, Division of Biomedical Sciences, 
+Imperial College School of Medicine, London SW7 2AZ, England.
+
+The A1 subunit of the carotenoprotein alpha-crustacyanin, isolated from lobster 
+carapace, has been crystallized using the vapour-diffusion method. The crystals, 
+grown in solutions of ammonium sulfate containing methylpentanediol (MPD), 
+diffracted to 2. 0 A. The crystals are stable to radiation. The space group of 
+the crystals is P2(1)2(1)2(1). The unit-cell parameters are a = 41.9, b = 80.7, 
+c = 110.8 A. 'Standard structure determination' has been unsuccessful within 
+this crustacyanin family. Instead, an approach based on the S atoms is being 
+undertaken involving softer X-rays at the SRS, Daresbury.
+
+DOI: 10.1107/s0907444900008556
+PMID: 10944355 [Indexed for MEDLINE]
+
+
+55. Biospectroscopy. 1999;5(6):358-70. doi: 
+10.1002/(SICI)1520-6343(1999)5:6<358::AID-BSPY5>3.0.CO;2-1.
+
+Resonance raman spectroscopy and quantum chemical modeling studies of 
+protein-astaxanthin interactions in alpha-crustacyanin (major blue 
+carotenoprotein complex in carapace of lobster, Homarus gammarus).
+
+Weesie RJ(1), Merlin JC, de Groot HJ, Britton G, Lugtenburg J, Jansen FJ, 
+Cornard JP.
+
+Author information:
+(1)Laboratoire de Spectrochimie Infrarouge et Raman, CNRS UMR 8516, Université 
+des Sciences et Technologies de Lille, Villeneuve d'Ascq, France.
+
+Resonance Raman spectroscopy and quantum chemical calculations were used to 
+investigate the molecular origin of the large redshift assumed by the electronic 
+absorption spectrum of astaxanthin in alpha-crustacyanin, the major blue 
+carotenoprotein from the carapace of the lobster, Homarus gammarus. Resonance 
+Raman spectra of alpha-crustacyanin reconstituted with specifically 13C-labeled 
+astaxanthins at the positions 15, 15,15', 14,14', 13,13', 12,12', or 20,20' were 
+recorded. This approach enabled us to obtain information about the effect of the 
+ligand-protein interactions on the geometry of the astaxanthin chromophore in 
+the ground electronic state. The magnitude of the downshifts of the C==C 
+stretching modes for each labeled compound indicate that the main perturbation 
+on the central part of the polyene chain is not homogeneous. In addition, 
+changes in the 1250-1400 cm(-1) spectral range indicate that the geometry of the 
+astaxanthin polyene chain is moderately changed upon binding to the protein. 
+Semiempirical quantum chemical modeling studies (Austin method 1) show that the 
+geometry change cannot be solely responsible for the bathochromic shift from 480 
+to 632 nm of protein-bound astaxanthin. The calculations are consistent with a 
+polarization mechanism that involves the protonation or another interaction with 
+a positive ionic species of comparable magnitude with both ketofunctionalities 
+of the astaxanthin-chromophore and support the changes observed in the resonance 
+Raman and visible absorption spectra. The results are in good agreement with the 
+conclusions that were drawn on the basis of a study of the charge densities in 
+the chromophore in alpha-crustacyanin by solid-state NMR spectroscopy. From the 
+results the dramatic bathochromic shift can be explained not only from a change 
+in the ground electronic state conformation but also from an interaction in the 
+excited electronic state that significantly decreases the energy of the 
+pi-antibonding C==O orbitals and the HOMO-LUMO gap.
+
+DOI: 10.1002/(SICI)1520-6343(1999)5:6<358::AID-BSPY5>3.0.CO;2-1
+PMID: 10604288 [Indexed for MEDLINE]
+
+
+56. Acta Crystallogr D Biol Crystallogr. 1998 Jan 1;54(Pt 1):8-15. doi: 
+10.1107/s0907444997005374.
+
+Comparative studies of protein crystallization by vapour-diffusion and 
+microbatch techniques.
+
+Chayen NE(1).
+
+Author information:
+(1)Biophysics Section, Blackett Laboratory, Imperial College of Science, 
+Technology and Medicine, London SW7 2BZ, England. n.chayen@ic.ac.uk
+
+Numerous reports have been published in the literature which describe the 
+crystallization of macromolecules by a variety of crystallization methods, 
+including the vapour-diffusion and microbatch techniques. This topical review 
+compares the results of examples of proteins which were crystallized by both 
+vapour-diffusion and microbatch methods. The inherent features of the 
+vapour-diffusion and microbatch methods are discussed and some specific 
+conditions where one method appears more favourable than the other are reported. 
+Guidelines for the conversion of crystallization conditions from vapour 
+diffusion to microbatch (and vice versa) are also presented.
+
+DOI: 10.1107/s0907444997005374
+PMID: 9761813 [Indexed for MEDLINE]
+
+
+57. Biochemistry. 1997 Jun 17;36(24):7288-96. doi: 10.1021/bi9631982.
+
+13C Magic angle spinning NMR analysis and quantum chemical modeling of the 
+bathochromic shift of astaxanthin in alpha-crustacyanin, the blue 
+carotenoprotein complex in the carapace of the lobster Homarus gammarus.
+
+Weesie RJ(1), Jansen FJ, Merlin JC, Lugtenburg J, Britton G, de Groot HJ.
+
+Author information:
+(1)Leiden Institute of Chemistry, Gorlaeus Laboratories, Leiden University, The 
+Netherlands.
+
+Selective isotope enrichment, 13C magic angle spinning (MAS) NMR, and 
+semiempirical quantum chemical modeling, have been used to analyze 
+ligand-protein interactions associated with the bathochromic shift of 
+astaxanthin in alpha-crustacyanin, the blue carotenoprotein complex from the 
+carapace of the lobster Homarus gammarus. Spectra of alpha-crustacyanin were 
+obtained after reconstitution with astaxanthins labeled with 13C at positions 
+4,4', 12,12', 13,13', or 20,20'. The data reveal substantial downfield shifts of 
+4.9 and 7.0 ppm at positions 12 and 12' in the complex, respectively. In 
+contrast, at the 13 and 13' positions, small upfield shifts of 1.9 ppm were 
+observed upon binding to the protein. These data are in line with previously 
+obtained results for positions 14,14' (3.9 and 6.8 ppm downfield) and 15,15' 
+(0.6 ppm upfield) and confirm the unequal perturbation of both halves after 
+binding of the chromophore. However, these results also show that the main 
+perturbation is of symmetrical origin, since the chemical shift differences 
+exhibit a similar pattern in both halves of the astaxanthin molecule. A small 
+downfield shift of 2.4 ppm was detected for the 4 and 4' positions. Finally, the 
+20,20' methyl groups are shifted 0.4 ppm upfield by the protein. The full data 
+set provides convincing evidence that charge polarization is of importance for 
+the bathochromic shift. The NMR shifts are compared with calculated charge 
+densities for astaxanthin subjected to variations in protonation states of the 
+ring-functional groups, as models of ligand-protein interactions. Taking into 
+account the color shift and other available optical data, the current model for 
+the mechanisms of interaction with the protein was refined. The results point 
+toward a mechanism in which the astaxanthin is charged and subject to strong 
+electrostatic polarizations originating from both keto groups, most likely a 
+double protonation.
+
+DOI: 10.1021/bi9631982
+PMID: 9200677 [Indexed for MEDLINE]
+
+
+58. Acta Crystallogr D Biol Crystallogr. 1997 May 1;53(Pt 3):231-9.
+
+Partial improvement of crystal quality for microgravity-grown apocrustacyanin 
+C1.
+
+Snell EH(1), Cassetta A, Helliwell JR, Boggon TJ, Chayen NE, Weckert E, Holzer 
+K, Schroer K, Gordon EJ, Zagalsky PF.
+
+Author information:
+(1)Chemistry Department, University of Manchester, England.
+
+The protein apocrustacyanin C1 has been crystallized by vapour diffusion in both 
+microgravity (the NASA space shuttle USML-2 mission) and on the ground. Rocking 
+width measurements were made on the crystals at the ESRF Swiss-Norwegian 
+beamline using a high-resolution psi-circle diffractometer from the University 
+of Karlsruhe. Crystal perfection was then evaluated, from comparison of the 
+reflection rocking curves from a total of five crystals (three grown in 
+microgravity and two earth controls), and by plotting mosaicity versus 
+reflection signal/noise. Comparison was then made with previous measurements of 
+almost 'perfect' lysozyme crystals grown aboard IML-2 and Spacehab-1 and 
+reported by Snell et al. [Snell, Weisgerber, Helliwell, Weckert, Holzer & 
+Schroer (1995). Acta Cryst. D51, 1099-1102]. Overall, the best 
+diffraction-quality apocrustacyanin C1 crystal was microgravity grown, but one 
+earth-grown crystal was as good as one of the other microgravity-grown crystals. 
+The remaining two crystals (one from microgravity and one from earth) were 
+poorer than the other three and of fairly equal quality. Crystal movement during 
+growth in microgravity, resulting from the use of vapour-diffusion geometry, may 
+be the cause of not realising the 'theoretical' limit of perfect protein crystal 
+quality.
+
+PMID: 11540431 [Indexed for MEDLINE]
+
+
+59. Protein Eng. 1996 Oct;9(10):927-9. doi: 10.1093/protein/9.10.927.
+
+A novel technique for containerless protein crystallization.
+
+Chayen NE(1).
+
+Author information:
+(1)Blackett Laboratory, Imperial College of Science, Technology and Medicine, 
+London, UK.
+
+Heterogeneous nucleation, which is often detrimental to the production of 
+suitable crystals for X-ray diffraction, can be induced by the contact of a 
+crystallization sample with the walls of its supporting vessel. A novel method 
+for creating a 'containerless' environment for the growth of protein crystals is 
+described. Contact between the container walls and a crystallization drop is 
+eliminated by suspending the drop between two oils of different density: one of 
+higher and the other of lower density than that of water and the common 
+precipitating agents. A number of proteins were crystallized in 2-10 microliters 
+drops using this procedure. It was found that the number of crystals obtained in 
+such suspended drops was reduced significantly compared with the number of 
+crystals obtained in trials where the crystallization drop was situated at the 
+bottom of a vial under a single layer of oil. This method has potential in 
+controlling heterogeneous nucleation.
+
+DOI: 10.1093/protein/9.10.927
+PMID: 8931133 [Indexed for MEDLINE]
+
+
+60. Acta Crystallogr D Biol Crystallogr. 1996 Mar 1;52(Pt 2):409-10. doi: 
+10.1107/S0907444995015137.
+
+Crystallization and initial X-ray analysis of beta-crustacyanin, the dimer of 
+apoproteins A2 and C1, each with a bound astaxanthin molecule.
+
+Chayen NE(1), Gordon EJ, Phillips SE, Saridakis EE, Zagalsky PF.
+
+Author information:
+(1)Blackett Laboratory, Imperial College of Science, Technology and Medicine, 
+London, England.
+
+Crystals of beta-crustacyanin, a carotenoid-binding protein from lobster 
+carapace, have been grown under oil from solutions containing sodium potassium 
+phosphate as precipitant. They grow slowly over a period of months to reach 
+maximal dimensions of 0.5 x 0.1 x 0.1 mm, and belong to space group P622 with 
+cell dimensions: a = b = 124.39, c = 188.86 A and gamma = 120 degrees. The 
+crystals diffract to beyond 3 A but are very radiation sensitive, limiting the 
+resolution of usable data. The unit-cell volume suggests that there are two 
+beta-crustacyanin molecules per asymmetric unit.
+
+DOI: 10.1107/S0907444995015137
+PMID: 1529971461. FEBS Lett. 1995 Mar 27;362(1):34-8. doi: 10.1016/0014-5793(95)00191-b.
+
+Protein-chromophore interactions in alpha-crustacyanin, the major blue 
+carotenoprotein from the carapace of the lobster, Homarus gammarus. A study by 
+13C magic angle spinning NMR.
+
+Weesie RJ(1), Askin D, Jansen FJ, de Groot HJ, Lugtenburg J, Britton G.
+
+Author information:
+(1)Department of Biochemistry, University of Liverpool, UK.
+
+MAS (magic angle spinning) 13C NMR has been used to study protein-chromophore 
+interactions in alpha-crustacyanin, the blue astaxanthin-binding carotenoprotein 
+of the lobster, Homarus gammarus, reconstituted with astaxanthins labelled with 
+13C at the 14,14' or 15,15' positions. Two signals are seen for 
+alpha-crustacyanin containing [14,14'-13C2]astaxanthin, shifted 6.9 and 4.0 ppm 
+downfield from the 134.1 ppm signal of uncomplexed astaxanthin in the solid 
+state. With alpha-crustacyanin containing [15,15'-13C2]astaxanthin, one 
+essentially unshifted broad signal is seen. Hence binding to the protein causes 
+a decrease in electronic charge density, providing the first experimental 
+evidence that a charge redistribution mechanism contributes to the bathochromic 
+shift of the astaxanthin in alpha-crustacyanin, in agreement with inferences 
+based on resonance Raman data [Salares, et al. (1979) Biochim. Biophys. Acta 
+576, 176-191]. The splitting of the 14 and 14' signals provides evidence for 
+asymmetric binding of each astaxanthin molecule by the protein.
+
+DOI: 10.1016/0014-5793(95)00191-b
+PMID: 7698348 [Indexed for MEDLINE]
+
+
+62. Adv Space Res. 1995;16(8):91-4. doi: 10.1016/0273-1177(95)00276-k.
+
+Crystallisation of alpha-crustacyanin, the lobster carapace astaxanthin-protein: 
+results from EURECA.
+
+Zagalsky PF(1), Wright CE, Parsons M.
+
+Author information:
+(1)Biochemistry Department, University of London, Egham, UK.
+
+Crystallisation of alpha-crustacyanin, the lobster carapace astaxanthin-protein 
+was attempted under microgravity conditions in EURECA satellite using 
+liquid-liquid diffusion with polyethyleneglycol (PEG) as precipitant; in a 
+second reaction chamber phenol and dioxan were used as additives to prevent 
+composite crystal growth. Crystals of alpha-crustacyanin grown under 
+microgravity from PEG were larger than those grown terrestrially in the same 
+apparatus under otherwise identical conditions. On retrieval, the crystals from 
+PEG were shown to be composite and gave a powder diffraction pattern. The second 
+reaction chamber showed leakage on retrieval and had also been subjected to 
+rapid temperature variation during flight. Crystal fragments were nevertheless 
+recovered but showed a powder diffraction pattern. It is concluded, certainly 
+for liquid-liquid diffusion using PEG alone, that, for crustacyanin, although 
+microgravity conditions resulted in an increase in dimensions of crystals, a 
+measurable improvement in molecular ordering was not achieved.
+
+DOI: 10.1016/0273-1177(95)00276-k
+PMID: 11542700 [Indexed for MEDLINE]
+
+
+63. J Mol Biol. 1992 Mar 5;224(1):283-4. doi: 10.1016/0022-2836(92)90594-a.
+
+Crystallization and initial X-ray analysis of the C2-subunit of crustacyanin.
+
+Wright CE(1), Rafferty JB, Flower DR, Groom CR, Findlay JB, North AC, Phillips 
+SE, Zagalsky PF.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Leeds, U.K.
+
+Crystals of the C2-subunit of crustacyanin have been grown from solutions 
+containing ammonium sulphate and 2-methyl-2,4-pentanediol as co-precipitants. 
+The crystals belong to space group P2(1)2(1)2(1) (a = 42.0 A, b = 80.9 A, c = 
+110.8 A) with two subunits per asymmetric unit and diffract beyond 2.2 A 
+resolution.
+
+DOI: 10.1016/0022-2836(92)90594-a
+PMID: 1548709 [Indexed for MEDLINE]
+
+
+64. Eur J Biochem. 1991 Nov 15;202(1):31-40. doi: 
+10.1111/j.1432-1033.1991.tb16340.x.
+
+Complete sequence and model for the C1 subunit of the carotenoprotein, 
+crustacyanin, and model for the dimer, beta-crustacyanin, formed from the C1 and 
+A2 subunits with astaxanthin.
+
+Keen JN(1), Caceres I, Eliopoulos EE, Zagalsky PF, Findlay JB.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Leeds, 
+England.
+
+The complete sequence has been determined for the C1 subunit of crustacyanin, an 
+astaxanthin-binding protein from the carapace of the lobster Homarus gammarus 
+(L.). The polypeptide, 181 residues long, is similar (38% identity) to the other 
+main subunit, A2 and to plasma retinol-binding protein. The tertiary structure 
+of the C1 subunit has been modelled on that derived for the A2 subunit from the 
+coordinates of retinol-binding protein. Residues lining the putative binding 
+cavities and at the putative carotenoid binding sites of the two subunits are 
+highly conserved. The carotenoid environments are characterized by a 
+preponderance of aromatic and polar residues and the absence of charged 
+side-chains. A tentative model for the dimer, beta-crustacyanin, formed between 
+the two subunits with their associated carotenoid ligands, is discussed. The 
+model is based on the crystal structure of the dimer of bilin-binding protein, a 
+member of the same superfamily. This structure has enabled us to examine 
+mechanisms for the bathochromic spectral shift of the protein-bound carotenoid 
+and to identify likely contact regions between dimers in octameric 
+alpha-crustacyanin.
+
+DOI: 10.1111/j.1432-1033.1991.tb16340.x
+PMID: 1935978 [Indexed for MEDLINE]
+
+
+65. Eur J Biochem. 1991 Apr 23;197(2):407-17. doi: 
+10.1111/j.1432-1033.1991.tb15925.x.
+
+Complete sequence and model for the A2 subunit of the carotenoid pigment 
+complex, crustacyanin.
+
+Keen JN(1), Caceres I, Eliopoulos EE, Zagalsky PF, Findlay JB.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Leeds, 
+England.
+
+The complete sequence has been determined for the A2 subunit of crustacyanin, an 
+astaxanthin-binding protein from the carapace of the lobster Homarus gammarus. 
+The polypeptide chain is 174 residues long and is similar to proteins of the 
+retinol-binding protein superfamily. Some regions of the sequence are most 
+similar to the retinol-binding protein, beta-lactoglobulin subgroup, while the 
+disulphide bonding pattern is more akin to that seen in the porphyrin binding 
+proteins insecticyanin and bilin-binding protein. It is beginning to appear as 
+though this superfamily of proteins, characterized by a similar gross structural 
+framework, may be further subdivided into interrelated subclasses. Model 
+building based on the coordinates of the known structure of human plasma 
+retinol-binding protein and on empirical prediction algorithms has allowed the 
+putative identification of side-chains which line the binding cavity. This 
+pocket is larger than in retinol binding protein and beta-lactoglobulin but does 
+not allow the carotenoid to adopt a folded conformation. The amino acid 
+composition of the pocket does not support a 'charge-shift'-type hypothesis to 
+support the bathochromic shift phenomenon which takes place on interaction of 
+the chromophore with the protein. Instead aromatic side-chains may play a 
+prominent role.
+
+DOI: 10.1111/j.1432-1033.1991.tb15925.x
+PMID: 2026162 [Indexed for MEDLINE]
+
+
+66. Biochem J. 1991 Feb 15;274 ( Pt 1)(Pt 1):79-83. doi: 10.1042/bj2740079.
+
+The lobster carapace carotenoprotein, alpha-crustacyanin. A possible role for 
+tryptophan in the bathochromic spectral shift of protein-bound astaxanthin.
+
+Zagalsky PF(1), Eliopoulos EE, Findlay JB.
+
+Author information:
+(1)Department of Biochemistry, Royal Holloway and Bedford New College, Egham, 
+Surrey, U.K.
+
+Crustacyanin, cross-linked with dimethyl pimelimidate to stabilize the protein 
+against denaturation, was used to test the effects of tryptophan modification 
+with BNPS-skatole [3-bromo-3-methyl-2-(nitrophenylmercaptol)-3H-indole] on the 
+ability of the apoprotein to recombine with astaxanthin. The cross-linked 
+apoprotein re-forms alpha-crustacyanin with astaxanthin in reasonable yield 
+following incubation of the protein under the conditions for tryptophan 
+modification in the absence of BNPS-skatole. The BNPS-skatole-treated protein 
+reconstitutes with astaxanthin to give a carotenoprotein with lambda max. at 472 
+nm, that of the carotenoid in hexane, in a yield similar to that of the 
+BNPS-skatole-untreated control. The implied involvement of tryptophan residues 
+at the sites of astaxanthin attachment in crustacyanin and their possible roles 
+in the binding sites of vitamin A in vitamin A-proteins are discussed in 
+relation to the bathochromic spectral shifts of the chromophores.
+
+DOI: 10.1042/bj2740079
+PMCID: PMC1149922
+PMID: 2001254 [Indexed for MEDLINE]
+
+
+67. Biochem J. 1990 Feb 1;265(3):919-21. doi: 10.1042/bj2650919.
+
+Alternative ligands as probes for the carotenoid-binding site of lobster 
+carapace crustacyanin.
+
+Clarke JB(1), Eliopoulos EE, Findlay JB, Zagalsky PF.
+
+Author information:
+(1)Biochemistry Department, Royal Holloway and Bedford New College, Egham, 
+Surrey, U.K.
+
+The apoproteins of the lobster carotenoprotein, crustacyanin, show single 
+high-affinity binding sites for the hydrophobic fluorescence probes 
+8-anilo-1-naphthalenesulphonic acid and cis-parinaric acid, and exhibit 
+fluorescence transfer from tryptophan to the ligands. These results, together 
+with information from the amino acid sequences, infer that the native 
+carotenoid, astaxanthin, is bound to each apoprotein within an internal 
+hydrophobic pocket, or calyx.
+
+DOI: 10.1042/bj2650919
+PMCID: PMC1133722
+PMID: 2306227 [Indexed for MEDLINE]
+
+
+68. Methods Enzymol. 1985;111:216-47. doi: 10.1016/s0076-6879(85)11011-6.
+
+Invertebrate carotenoproteins.
+
+Zagalsky PF.
+
+DOI: 10.1016/s0076-6879(85)11011-6
+PMID: 4033433 [Indexed for MEDLINE]
+
+
+69. Arch Int Physiol Biochim. 1983 Nov;91(4):297-332. doi: 
+10.3109/13813458309067977.
+
+[Immunochemical study of the proteins of various tissues in Crustacea 
+(Decapoda): nature, role, origin].
+
+[Article in French]
+
+Durliat M.
+
+The main proteins of the haemolymph of Crustacea Decapoda have been identified 
+and analysed: haemocyanin, plasma coagulogen, heteroagglutinins, vitellogenins, 
+and molt-related proteins. All these complex components exhibit a high molecular 
+weight and as oligomeric fractions are able to aggregate or dissociate in 
+subunits according to the composition of medium and experimental procedures. 
+Besides their important rôle in the defense mechanism, some proteins are 
+involved in the edification of diverse tissues. They are detected within 
+different compartments: soft integument, calcified carapace and hepatopancreas. 
+They are either in transit or sequestered or synthetized within these tissues. 
+In the crayfish Astacus leptodactylus, some components have been identified in 
+different compartments: --in aqueous extracts from soft integument: the 
+haemocyanin, coagulogen and both fraction F1 (lipoprotein with an approximate 
+molecular weight of 45 kdal) and fraction F2 related to the molt. Both 
+coagulogen and fraction F2 appear sometimes as melanized. These two latter 
+fractions exhibit some glucose-mannose residues and they occur with a higher 
+relative amount than in the blood. --in soluble extracts from calcified cuticle: 
+among the numerous fractions showing a high molecular weight, the haemocyanin 
+and coagulogen are detected. --in aqueous extracts from hepatopancreas: both 
+haemocyanin and coagulogen appear with a little relative amount. Components 
+termed as Fa and Fb are found with a high concentration. One minor fraction is 
+also detected. --in aqueous extracts from eggs: the haemocyanin and fraction Fb 
+are present. Other proteins showing only some antigenic identities with those of 
+the haemolymph are also detected in all these tissues. The haemolymph proteins 
+are not present within these compartments following a passive diffusion. Indeed, 
+their relative amount varies according to the tissue investigated and is 
+different from that found in the blood. Except the haemocyanin detected in all 
+tissues with different aggregation states, the haemolymph proteins identified 
+vary in the organs studied. A qualitative and quantitative selection occurs when 
+the blood proteins enter the other compartments. Perhaps some other proteins are 
+not detected following alterations underwent either in the epithelial barriers 
+or during the tannage process or the chitino-proteic complex formation or due to 
+experimental procedures. On the other hand, each tissue has its own proteins. 
+The integument contains crustacyanins alpha, beta, gamma; the eggs are mainly 
+constituted of lipovitellins and the hepatopancreas is rich in small molecular 
+weight proteins and digestive enzymes.(ABSTRACT TRUNCATED AT 400 WORDS)
+
+DOI: 10.3109/13813458309067977
+PMID: 6202261 [Indexed for MEDLINE]
+
+
+70. Can J Biochem Cell Biol. 1983 Sep;61(9):1018-24. doi: 10.1139/o83-130.
+
+The circular dichroism of ovoverdin and other carotenoproteins from the lobster 
+Homarus americanus.
+
+Young NM, Williams RE.
+
+The circular dichroic (CD) spectra of the alpha-, beta'-, and 
+gamma-crustacyanins, ovoverdin, and the yellow lobster-shell protein were 
+measured in the region 200-750 nm, for comparison with the CD spectrum of the 
+free carotenoid astaxanthin. The two carotenoid chromophores of ovoverdin gave a 
+CD spectrum with a series of bands of alternating sign and ellipticities up to 
+1.9 X 10(5) degree X cm2 X dmol-1, comparable to the low temperature CD spectrum 
+of astaxanthin in the UV region. The visible region of ovoverdin also contained 
+strong CD bands where astaxanthin itself has very weak ones. The blue (640 nm) 
+chromophore of ovoverdin gave a broad negative CD feature quite different from 
+the blue chromophores of the three crustacyanins. The crustacyanins have a broad 
+positive feature between 400 and 610 nm with ellipticities up to 2 X 10(5) 
+degree X cm2 X dmol-1, followed at higher wavelengths by a negative band with an 
+ellipticity up to 1 X 10(5) degree X cm2 X dmol-1. Gaussian curve-fitting 
+procedures showed the positive features to consist of a minimum of two or three 
+CD bands. In addition to the exciton bands at the main visible absorption, the 
+yellow lobster-shell protein had a pair of CD bands of equal but opposite 
+ellipticity associated with an absorption band between 250 and 340 nm. The UV 
+regions of the CD spectra of the five carotenoproteins have bands from both 
+carotenoid and protein chromophores, and possible assignments of these bands to 
+one or the other of the two types of chromophore are proposed.
+
+DOI: 10.1139/o83-130
+PMID: 6627105 [Indexed for MEDLINE]
+
+
+71. J Biochem. 1980 Sep;88(3):663-8. doi: 10.1093/oxfordjournals.jbchem.a133017.
+
+Spectroscopic characterization of alpha-crustacyanin.
+
+Lee TY, Jung J, Song P.
+
+alpha-Crustacyanin exhibits two CD extrema with negative and positive bands at 
+690 and 583 nm in phosphate buffer, respectively. The CD spectrum is interpreted 
+in terms of dipoledipole coupling between the transition moments of the two 
+astaxanthin molecules on each subunit. The CD splitting yields an exciton 
+bandwidth of 2800 cm-1, corresponding to an inter-chromophore distance of ca. 13 
+A in which the two astaxanthin molecules exist in a dimeric array with a mutual 
+orientation angle of ca. 90 degrees. The SDS denaturation completely abolishes 
+the long wavelength CD splitting, while 2 M NaCl reduces the overall CD 
+intensity without destroying the split CD spectrum. It is suggested that the 
+characteristic CD extrema at 583 and 690 nm arise from the intra-subunit 
+astaxanthin-astaxanthin coupling. The binding site for astaxanthin contains one 
+or more tryptophan residues, as the tryptophan fluorescence is quenched by 
+energy transfer from the tryptophan to the prosthetic group in the native form 
+of the carotenoprotein. The strong red shift (lambda max 487 nm) is probably due 
+to interactions between tryptophan residue(s) and the chromophore molecules 
+through dipole-dipole or partial charge transfer forces.
+
+DOI: 10.1093/oxfordjournals.jbchem.a133017
+PMID: 7419516 [Indexed for MEDLINE]
+
+
+72. Biochim Biophys Acta. 1979 Jan 25;576(1):176-91. doi: 
+10.1016/0005-2795(79)90496-3.
+
+Mechanisms of spectral shifts in lobster carotenoproteins. The resonance Raman 
+spectra of ovoverdin and the crustacyanins.
+
+Salares VR, Young NM, Bernstein HJ, Carey PR.
+
+Resonance Raman data have been used to elucidate the mechanisms of the 
+absorption spectral shifts occurring for astaxanthin upon binding to the 
+carotenoproteins, ovoverdin and alpha-,beta- and gamma-crustacyanins, from the 
+lobster Homarus americanus. Although distinguishable on the basis of small 
+differences in their resonance Raman spectra the binding sites of the 
+crustacyanins, giving rise to lambdamax at 605 +/- 25 nm, are essentially the 
+same. The large red shift in lambdamax for the crustacyanins compared to free 
+astaxanthin (lambdamax 480 nm), is accounted for by a charge-polarisation 
+mechanism in which charged groups and possibly hydrogen bonds in the binding 
+site set up pi electron polarisation in the ligand. Several alternate mechanisms 
+can be eliminated. Ovoverdin is found to consist of three polypeptide chains of 
+molecular weight 105,000, 95,000 and 78,000 which are not linked by disulfide 
+bridges. The visible absorption peaks of ovoverdin at 460 and 640 nm are shown 
+to arise from two astaxanthin molecules each bound at a different site. The 
+spectral characteristics of the 460 nm site suggest a rigid hydrophobic 
+environment for astaxanthin, in which no charge-ligand interactions occur. The 
+mechanism of the spectral shift in the 640 nm site is the same as in the 
+crustacyanins, i.e. a charge-polarisation effect. Resonance Raman spectra of 
+ovoverdin and the crustacyanins could be obtained in situ; they were identical 
+to the spectra of the purified proteins showing that the carotenoid sites were 
+unperturbed by protein isolation.
+
+DOI: 10.1016/0005-2795(79)90496-3
+PMID: 760804 [Indexed for MEDLINE]
+
+
+73. Comp Biochem Physiol B. 1977;56(1):55-61. doi: 10.1016/0305-0491(77)90222-x.
+
+Studies on the quaternary structure of the lobster exoskeleton carotenoprotein, 
+crustacyanin.
+
+Quarmby B, Norden DA, Zagalsky PF, Ceccaldi HJ, Daumas R.
+
+DOI: 10.1016/0305-0491(77)90222-x
+PMID: 830471 [Indexed for MEDLINE]
+
+
+74. Biochemistry. 1968 Feb;7(2):844-59. doi: 10.1021/bi00842a043.
+
+Properties of the crustacyanins and the yellow lobster shell pigment.
+
+Buchwald M, Jencks WP.
+
+DOI: 10.1021/bi00842a043
+PMID: 5644143 [Indexed for MEDLINE]
+
+
+75. Eur J Biochem. 1967 Oct;2(3):349-60. doi: 10.1111/j.1432-1033.1967.tb00145.x.
+
+[Crustacyanin, a chromoprotein from lobster shells. Relationship between color 
+and quaternary structure].
+
+[Article in German]
+
+Kuhn R, Kühn H.
+
+DOI: 10.1111/j.1432-1033.1967.tb00145.x
+PMID: 6078541 [Indexed for MEDLINE]
+
+
+76. Angew Chem Int Ed Engl. 1966 Nov;5(11):957. doi: 10.1002/anie.196609571.
+
+Quaternary structure and color of crustacyanin.
+
+Kuhn R, Kühn H.
+
+DOI: 10.1002/anie.196609571
+PMID: 4959560 [Indexed for MEDLINE]
+
+
+77. Biochem J. 1966 Oct;101(1):9C-11C. doi: 10.1042/bj1010009c.
+
+The specificity of the carotenoid-protein linkage in crustacyanin.
+
+Lee WL, Zagalsky PF.
+
+DOI: 10.1042/bj1010009c
+PMCID: PMC1270097
+PMID: 5971798 [Indexed for MEDLINE]
+
+
+78. Arch Biochem Biophys. 1964 Sep;107:511-20. doi: 10.1016/0003-9861(64)90309-1.
+
+THE DENATURATION OF CRUSTACYANIN.
+
+JENCKS WP, BUTEN B.
+
+DOI: 10.1016/0003-9861(64)90309-1
+PMID: 14234502 [Indexed for MEDLINE]
+
+
+79. Biol Bull. 1948 Oct;95(2):249.
+
+Crustacyanin, the blue carotenoid-protein of the lobster shell.
+
+WALD G, NATHANSON N, et al.
+
+PMID: 18933429 [Indexed for MEDLINE]

@@ -1,0 +1,82 @@
+---
+title: "Phylo_reutils"
+author: "Anna_Balan"
+date: "2023-02-11"
+output: pdf_document
+---
+
+```{r}
+if (!("reutils" %in% installed.packages())) 
+  install.packages("reutils")
+library(reutils)
+options(reutils.email = "your_email@gmail.com")
+```
+
+### 1. searches PubMed for articles of interest to abstracts articles in plain text format;
+
+```{r}
+esearch(db = "pubmed", term = "crustacyanin")
+ms <- esearch(db = "pubmed", term = "crustacyanin")
+abstr <- efetch(ms, rettype = "abstract")
+abstr
+write(content(abstr), "abstracts.txt")
+```
+
+### 2. request to the nucleotide database sequences all in the footsteps by gene name for an organism by name view and returns a list of identities or information about their number;
+
+```{r}
+esearch(db = "nucleotide", term = "crustacyanin")
+esearch(db = "nucleotide", term = "crustacyanin AND human[orgn]") #human doesnt have this protein
+esearch(db = "nucleotide", term = "crustacyanin AND lobster[orgn]") #it doesnt know lobster
+esearch(db = "nucleotide", term = "crustacyanin AND Homarus americanus[orgn]") 
+crcn <- esearch(db = "nucleotide", term = "crustacyanin AND Homarus americanus[orgn]") 
+```
+
+### 3. searches for an organism ID by name on the base;
+
+```{r}
+esearch(db = "taxonomy", term = "Homarus americanus")
+esearch(db = "taxonomy", term = "Human")
+esearch(db = "taxonomy", term = "Homo sapiens")
+esearch(db = "taxonomy", term = "Mouse") #why two species??? we dont know
+esearch(db = "taxonomy", term = "Ape") #why two species??? we dont know
+```
+
+```{r}
+#efetch(db = "taxonomy", uid = apes) #doesnt work for some reason
+```
+
+### 4. requests to protein databases or nucleotide sequences by name of the gene, after which it returns table with UID (in XML this field is called Id), inventory number (in XML this field is called Caption), long in direction (Slen);
+
+```{r}
+crcnp <- esearch(db = "protein", term = "crustacyanin AND Homarus americanus[orgn]") 
+su <- esummary(crcnp)
+cosu <- content(su, "parsed")
+as.data.frame(cosu[c("Id", "Caption", "Slen")])
+```
+
+### 5. gives nucleotide or protein bases text query sequences, and then writes the sequences to a file in fasta format (show the beginning of the file);
+
+```{r}
+s <- esearch(db = "protein", term = "crustacyanin AND Homarus americanus[orgn]") 
+f <- efetch(uid = s[1:10], db = "protein", rettype = "fasta", retmode = "text")
+write(content(f), "Ham_crcn.fa")
+fastaf <- readLines("Ham_crcn.fa")
+head(fastaf)
+```
+
+### 6. downloads a protein corresponding to a known nucleotide UID;
+
+```{r}
+lnk1 <- elink(uid = "2065188392", dbFrom = "nucleotide", dbTo = "protein")
+efetch(lnk1, rettype = "fasta", retmode = "text")
+```
+
+### 7. downloads all sequences from work with PMID ... (for example, from the first task) and writes them to the fasta file.
+
+```{r}
+ms2 <- esearch(term = "lobster microsporidia", db = "pubmed")
+lnk <- elink(ms2[4], dbFrom = "pubmed", dbTo = "nuccore")
+f2 <- efetch(lnk, rettype = "fasta", retmode = "text")
+write(content(f2), "lobster_microsporidia.fa")
+```
