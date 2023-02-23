@@ -51,6 +51,8 @@ prank   |  Total time 4s  |  2366bp  |  + |
 
 length can be checked in UGENE, as well as the quality. for example, with the ber below the alignment. The grey area in the bar shows % of same nucleatides/aminoacids in each location of alignment. To me they all seem pretty ok, except of prank, and kalign format couldn't be correctly showed in UGENE... So I would choose clustalw/muscle/mafft
 
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW3/OywyTOYbdfI.jpg'/>
+
 ## 3. 
 SUP35_10seqs_strange_aln.fa is a reverse complementary sequence, so it alignt wrong, though if we run blast on it, everything seems to be fine. To fix that we can use a UGENE function or try these variants i have found:
 
