@@ -1,12 +1,12 @@
 ## 1. Какие программы использовали для анализа? версии программ.
 
 1. trimAl (http://trimal.cgenomics.org/downloads или https://anaconda.org/bioconda/trimal; если совсем не взлетает,
-то https://ngphylogeny.fr/tools/tool/284/form).
+то https://ngphylogeny.fr/tools/tool/284/form). trimAl v1.4.rev15 build[2013-12-17]. 2009-2013.
 2. RAxML-NG, https://github.com/amkozlov/raxml-ng/releases/tag/1.1.0, https://raxml-ng.vital-it.ch/#/
 3. ModelTest-NG, https://github.com/ddarriba/modeltest/releases/tag/v0.1.7
 RAxML
 и ModelTest есть на https://www.phylo.org/index.php
-4. IQ-Tree (http://www.iqtree.org/, если не взлетает, ищите внизу
+4. IQ-Tree (http://www.iqtree.org/, если не взлетает, ищите внизу, version 2.2.0.3
 странички web service или https://anaconda.org/bioconda/iqtree). Для практикума
 №4 подойдёт любая версия, для практикума
 №5 лучше iq-tree v2, поэтому имеет смысл ставить
