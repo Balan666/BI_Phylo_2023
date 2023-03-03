@@ -31,7 +31,7 @@ modeltest-ng-static -i SUP35_aln_prank.trim.fas -o SUP35_aln_prank_trim_modeltes
 
 ## 4. Какая(ие) модель(и) эволюции была признана наиболее подходящей для нашего выравнивания?.
 Давайте для единообразия ориентироваться на BIC.
-
+```
 --------------------------------------------------------------------------------
 
 BIC       model              K            lnL          score          delta    weight
@@ -58,7 +58,7 @@ Gamma shape:        0.4034
 Score:              18180.5947
 Weight:             0.4140
 ---------------------------
-
+```
 ## 5. Постройте ML-дерево в RAxML-NG, используя выбранную модель. (Приведите код или описание действий.)
 
 ```
@@ -68,12 +68,91 @@ raxml-ng --msa SUP35_aln_prank.trim.fas --model TIM3+G4 --prefix SUP35_raxml --t
 ## 6. Отрисуйте полученное дерево (лучшее ML-дерево) и покажите рисунок.
 +1 балл за скрипт на любом языке, который принимает на вход название файла и автоматически рисует качественное дерево (скрипт можно привести внутри отчёта, вряд ли он очень длинный).
 
+```{r}
+library(ggtree)
+tr <- read.tree("SUP35_raxml.raxml.bestTree")
+ggtree(tr) + geom_tiplab() + xlim(0,2)
+```
+```
+#```{python}
+#from Bio import AlignIO
+#alignments = AlignIO.parse('SUP35_aln_prank.best.fas', "fasta")
+#AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-relaxed')
+#AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-sequential')
+#```
+```
+
 ## 7. Как выбрать модель в ModelFinder (можно через IQ-TREE)?
+
+```
+#iqtree -s SUP35_aln_prank.trim.fas -m MFP -pre SUP35_MF
+iqtree2 -m MFP -s SUP35_aln_prank.trim.fas --prefix SUP35_MF2
+
+iqtree2 -m TIM3+F+G4 -s SUP35_aln_prank.trim.fas --prefix SUP35_iqtree
+
+iqtree2 -s SUP35_aln_prank.best.fas -pre SUP35_prank_unfilt
+iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_mafft.fa -pre SUP35_mafft
+iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_kalign.fa -pre SUP35_kalign
+iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_kalign.fa -pre SUP35_kalign -redo
+iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_clustalw.fa -pre SUP35_clustalw
+```
 
 ## 8. Какая модель эволюции была признана наиболее подходящей для нашего выравнивания?
 (Скопируйте нужную часть вывода программы).
+
+```
+Best-fit model according to BIC: TIM3+F+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TIM3+F+G4         -8993.686   18035.372 -   0.0328   18035.972 -   0.0354   18170.092 +    0.732
+TIM3+F+I+G4       -8991.335   18032.671 +    0.127   18033.321 +    0.133   18173.004 +    0.171
+TN+F+G4           -9000.108   18046.216 - 0.000145   18046.768 -  0.00016   18175.323 +   0.0535
+TN+F+I+G4         -8997.491   18042.982 -  0.00073   18043.582 - 0.000787   18177.702 -   0.0163
+GTR+F+G4          -8990.601   18033.202 +    0.097   18033.905 +   0.0994   18179.149 -   0.0079
+TIM2+F+G4         -8998.340   18044.680 - 0.000312   18045.280 - 0.000337   18179.399 -  0.00697
+TIM3+F+I+I+R2     -8990.918   18033.836 +   0.0706   18034.539 +   0.0724   18179.783 -  0.00576
+TIM2+F+I+G4       -8995.740   18041.480 -  0.00155   18042.131 -  0.00163   18181.814 -  0.00209
+GTR+F+I+G4        -8988.267   18030.534 +    0.368   18031.291 +    0.367   18182.094 -  0.00181
+TIM+F+G4          -8999.957   18047.915 - 6.19e-05   18048.515 - 6.68e-05   18182.635 -  0.00138
+TN+F+I+I+R2       -8996.634   18043.269 - 0.000632   18043.919 - 0.000665   18183.602 - 0.000853
+TIM+F+I+G4        -8997.340   18044.680 - 0.000312   18045.330 - 0.000329   18185.013 - 0.000421
+TIM2+F+I+I+R2     -8994.830   18041.659 -  0.00141   18042.362 -  0.00145   18187.606 - 0.000115
+```
+
 Отличаются ли модели, выбранные ModelTest и ModelFinder, и насколько сильно?
+Отличаются незначительно, в целом в выдаче есть много общего
 
 ## 9. Постройте ML-дерево в IQ-TREE, используя выбранную модель. (Приведите код или описание действий.)
 
+в целом IQ-tree рисует его сразу в том же файле в ASCII:
+```
++----------------------------------SUP35_Kla_AB039749
+|
++-------------------------------------------SUP35_Agos_ATCC_10895_NM_211584
+|
+|                                                         +**SUP35_Scer_74-D694_GCA_001578265.1
+|                                                      +**|
+|                                                      |  +**SUP35_Scer_beer078_CM005938
+|                                                +-----|
+|                                                |     +**SUP35_Sbou_unique28_CM003560
+|                                            +---|
+|                                            |   +---SUP35_Spar_A12_Liti
+|                                         +--|
+|                                         |  +--------SUP35_Smik_IFO1815T_30
++-----------------------------------------|
+                                          |     +---------SUP35_Sarb_H-6_chrXIII_CM001575
+                                          |  +--|
+                                          |  |  +------------SUP35_Seub_CBS12357_chr_II_IV_DF968535
+                                          +--|
+                                             +------------SUP35_Skud_IFO1802T_36
+```
+
 ## 10. Отрисуйте полученное дерево (лучшее ML-дерево) и покажите рисунок.
+
+```{r}
+library(ggtree)
+tr <- read.tree("/home/bananna/Desktop/BI_Phylo/HW4/SUP35_raxml.raxml.bestTree")
+ggtree(tr) + geom_tiplab() + xlim(0,2)
+```
