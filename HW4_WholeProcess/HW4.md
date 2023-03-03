@@ -85,7 +85,7 @@ ggtree(tr) + geom_tiplab() + xlim(0,2)
 #AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-relaxed')
 #AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-sequential')
 ```
-
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW4_WholeProcess/raxmlBestTree.png?raw=true'>
 
 ## 7. Как выбрать модель в ModelFinder (можно через IQ-TREE)?
 Для разных версий (я брала первый вариант):
@@ -161,6 +161,6 @@ TIM2+F+I+I+R2     -8994.830   18041.659 -  0.00141   18042.362 -  0.00145   1818
 
 ```{r}
 library(ggtree)
-tr <- read.tree("/home/bananna/Desktop/BI_Phylo/HW4/SUP35_raxml.raxml.bestTree")
+tr <- read.tree("/home/bananna/Desktop/BI_Phylo/HW4/SUP35_MF2.treefile")
 ggtree(tr) + geom_tiplab() + xlim(0,2)
 ```
