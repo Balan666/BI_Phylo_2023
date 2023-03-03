@@ -23,6 +23,11 @@ https://youtu.be/P77StHPIJ0k?t=14
 #trimal -in SUP35_aln_prank.best.fas -out SUP35_aln_prank.trim.fas
 trimal -in SUP35_aln_prank.best.fas -out SUP35_aln_prank.trim.fas -automated1
 ```
+Еще с помощью него можно конвертировать файлы:
+```
+trimal -in SUP35_aln_prank.best.fas -out SUP35_aln.best.t.phy -phylip
+```
+
 ## 3. Как подобрать модель эволюции в ModelTest (ModelTest-NG)?
 
 ```
@@ -60,7 +65,7 @@ Weight:             0.4140
 ---------------------------
 ```
 ## 5. Постройте ML-дерево в RAxML-NG, используя выбранную модель. (Приведите код или описание действий.)
-
+(Эволюцию RAxML смотреть в лекции или в папке с ДЗ)
 ```
 raxml-ng --check --msa SUP35_aln_prank.trim.fas  --model TIM3+G4 --prefix SUP35_raxml_test
 raxml-ng --msa SUP35_aln_prank.trim.fas --model TIM3+G4 --prefix SUP35_raxml --threads 2 --seed 222 
@@ -73,29 +78,30 @@ library(ggtree)
 tr <- read.tree("SUP35_raxml.raxml.bestTree")
 ggtree(tr) + geom_tiplab() + xlim(0,2)
 ```
-```
-#```{python}
+
+```{python}
 #from Bio import AlignIO
 #alignments = AlignIO.parse('SUP35_aln_prank.best.fas', "fasta")
 #AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-relaxed')
 #AlignIO.write(alignments, 'SUP35_aln.best.p.phy', 'phylip-sequential')
-#```
 ```
 
-## 7. Как выбрать модель в ModelFinder (можно через IQ-TREE)?
 
+## 7. Как выбрать модель в ModelFinder (можно через IQ-TREE)?
+Для разных версий (я брала первый вариант):
 ```
 #iqtree -s SUP35_aln_prank.trim.fas -m MFP -pre SUP35_MF
 iqtree2 -m MFP -s SUP35_aln_prank.trim.fas --prefix SUP35_MF2
 
-iqtree2 -m TIM3+F+G4 -s SUP35_aln_prank.trim.fas --prefix SUP35_iqtree
+iqtree2 -m TIM3+F+G4 -s SUP35_aln_prank.trim.fas --prefix SUP35_iqtree #с уже известной моделью
 
 iqtree2 -s SUP35_aln_prank.best.fas -pre SUP35_prank_unfilt
 iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_mafft.fa -pre SUP35_mafft
 iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_kalign.fa -pre SUP35_kalign
-iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_kalign.fa -pre SUP35_kalign -redo
+iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_kalign.fa -pre SUP35_kalign -redo #не строит дерево
 iqtree2 -s ../../Phylo-3-alignment/SUP35_10seqs_clustalw.fa -pre SUP35_clustalw
 ```
+likelyhood - оценка кач-ва выравнивания
 
 ## 8. Какая модель эволюции была признана наиболее подходящей для нашего выравнивания?
 (Скопируйте нужную часть вывода программы).
@@ -126,7 +132,7 @@ TIM2+F+I+I+R2     -8994.830   18041.659 -  0.00141   18042.362 -  0.00145   1818
 
 ## 9. Постройте ML-дерево в IQ-TREE, используя выбранную модель. (Приведите код или описание действий.)
 
-в целом IQ-tree рисует его сразу в том же файле в ASCII:
+в целом IQ-tree рисует его сразу в том же файле в ASCII (неукорененное дерево, укореняет в первую последовательность):
 ```
 +----------------------------------SUP35_Kla_AB039749
 |
@@ -148,6 +154,8 @@ TIM2+F+I+I+R2     -8994.830   18041.659 -  0.00141   18042.362 -  0.00145   1818
                                           +--|
                                              +------------SUP35_Skud_IFO1802T_36
 ```
+Но оно выглядит непрезентабольно
+
 
 ## 10. Отрисуйте полученное дерево (лучшее ML-дерево) и покажите рисунок.
 
