@@ -164,3 +164,4 @@ library(ggtree)
 tr <- read.tree("/home/bananna/Desktop/BI_Phylo/HW4/SUP35_MF2.treefile")
 ggtree(tr) + geom_tiplab() + xlim(0,2)
 ```
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW4_WholeProcess/000012.png?raw=true'>
