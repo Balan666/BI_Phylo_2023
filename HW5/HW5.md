@@ -3,15 +3,20 @@ iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre SUP35_TIM3
 ## BOOTSTREP
 
 чтобы было быстро, поставим 10 повторов
+```
 time iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -redo -pre SUP35_TIM3_b -b 10
+```
 но вообще надо минимум 100
 
 ультрабыстрый бутстреп дает значения % больше, его нужно бырать строже, по 95%
+```
 time iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -redo -pre SUP35_TIM3_ufb -bb 1000
-
+```
 Другая метрика - approximate bayes test
+```
 iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre SUP35_TIM3_B_alrt_abayes -bb 1000 -alrt 1000 -abayes
 0m1,744s
+```
 #https://itol.embl.de/ 
 
 Поддержка: */bias/bootstrep
@@ -38,9 +43,16 @@ ggtree(tree_alrt_abayes_ufb) +
 ``` 
 ## Корни
 можно брать за корень:
--внешнюю группу (sufficiently close)
+###### внешнюю группу (sufficiently close), на таксономический уровень выше
+```
 iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre SUP35_TIM3_root_outgroup -bb 1000 -alrt 1000 -abayes  -o SUP35_Kla_AB039749,SUP35_Agos_ATCC_10895_NM_211584
+```
+(аргумент -о)
 
+ITOL:
+пикча
+
+###### midpoint rooting
 
 #https://github.com/mooreryan/midpoint-root
 ```{r}
@@ -48,13 +60,25 @@ iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre SUP35_TIM3_root_outgroup -
 library(phytools)
 midpoint.root(tree_alrt_abayes_ufb)
 ```
+ITOL: pic
 
+###### Необратимые модели
+учитыват течение времени
+
+```
 iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -pre SUP35_TIM3_root_auto --model-joint 12.12 -B 1000
+```
 
+выдает nexus дерево и rootsrap (точность оставляет желать лучшего)
+
+with a certain model:
+```
 iqtree2 -s SUP35_aln_prank.trim.fas -m JC -pre SUP35_JC -bb 1000 -alrt 1000 -abayes -o SUP35_Kla_AB039749,SUP35_Agos_ATCC_10895_NM_211584
-
+```
+выдает два дерева. сравнивать их можно много где
 #http://phylo.io/ 
 #https://beta.phylo.io/viewer/#
+
 
 ```{r}
 library(ggtree)
@@ -81,3 +105,4 @@ png("cophylo.png", width = 1200, height = 800)
 plot(trees.cophylo, link.type="curved",link.lwd=4,
      link.lty="solid",link.col=make.transparent("red", 0.25), size = 1)
 dev.off()
+```
