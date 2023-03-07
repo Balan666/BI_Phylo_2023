@@ -31,6 +31,7 @@ time iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -redo -pre SUP35_TIM3_b -b
 ```
 ## 3 ULTRAFAST BOOTSTREP
 ультрабыстрый бутстреп, как мне показалось, раз в 10 быстрее
+
 ультрабыстрый бутстреп дает значения % больше, его нужно бырать строже, по 95%
 ```
 time iqtree2 -s SUP35_aln_prank.trim.fas -m TIM3+F+G4 -redo -pre SUP35_TIM3_ufb -bb 1000
@@ -64,6 +65,10 @@ ggtree(tree_alrt_abayes_ufb) +
   geom_tiplab() + geom_nodelab(nudge_x = -.01, nudge_y = .1) +
   geom_treescale() + xlim(0, 0.7)
 ``` 
+
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/1a723d2a-d801-4397-8329-fdaf9789c2e7.png?raw=true'>
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/88739747-41c4-4b33-8eda-7b7acc64ea98.png?raw=true'>
+
 ## Корни
 можно брать за корень:
 ## 5.
@@ -84,7 +89,10 @@ ITOL:
 library(phytools)
 midpoint.root(tree_alrt_abayes_ufb)
 ```
-ITOL: pic
+
+ITOL:
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/midpointroot.png?raw=true'>
+
 ## 7.
 ###### Необратимые модели
 учитыват течение времени
@@ -99,11 +107,17 @@ with a certain model:
 ```
 iqtree2 -s SUP35_aln_prank.trim.fas -m JC -pre SUP35_JC -bb 1000 -alrt 1000 -abayes -o SUP35_Kla_AB039749,SUP35_Agos_ATCC_10895_NM_211584
 ```
-## 8.
-## 9.
-## 10.
+## 8. Дерево с поддержкой корня (rootstrap)
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/rootstraptree.png?raw=true'>
+
+## 9.То же самое дерево с использованием заведомо неправильной модели JC+G4 и поддержками
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/wrong.png?raw=true'>
+
+## 10. Деревья, построенные с моделями TIM3+F+G4 и JC (SUP35_JC.treefile и SUP35_TIM3_root_outgroup.treefile).
 выдает два дерева. сравнивать их можно много где
+
 #http://phylo.io/ 
+
 #https://beta.phylo.io/viewer/#
 
 
@@ -133,3 +147,5 @@ plot(trees.cophylo, link.type="curved",link.lwd=4,
      link.lty="solid",link.col=make.transparent("red", 0.25), size = 1)
 dev.off()
 ```
+ITOL:
+<img src='https://github.com/Balan666/BI_Phylo_2023/blob/main/HW5/compare.png?raw=true'>
